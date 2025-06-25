@@ -1,0 +1,896 @@
+Student_ID,Age,Gender,Course,Year_of_Study,CGPA,Exam_Frequency,Attendance_%,Living_Type,Club_Participation,Social_Media_Usage_hrs,Career_Anxiety_Level,Sleep_Hours,Counseling_Access
+S0001,27,Male,BSc CS,1,5.12,5,89.00,Day Scholar,None,3.6,2,7.2,Yes
+S0002,18,Female,MBA,1,6.85,5,58.60,Day Scholar,Tech,4.0,10,9.6,No
+S0003,27,Female,MCA,2,9.31,7,79.60,Room,None,1.2,5,5.8,No
+S0004,20,Male,MTech,1,7.05,10,79.80,Hostel,None,5.2,7,5.0,Yes
+S0005,21,Female,BTech,1,6.48,5,97.40,Day Scholar,Sports,6.6,9,4.3,Yes
+S0006,23,Male,MBA,1,8.84,9,54.20,Day Scholar,Literature,1.5,9,5.4,Yes
+S0007,22,Male,BCA,2,7.05,6,73.50,Day Scholar,Sports,0.9,4,6.9,No
+S0008,20,Female,BCom,1,7.12,4,73.30,Day Scholar,Literature,7.1,1,8.0,Yes
+S0009,27,Male,MTech,2,7.79,6,94.80,Day Scholar,Tech,7.2,3,5.5,Yes
+S0010,25,Male,MBA,2,4.73,7,64.00,Day Scholar,Tech,3.7,4,9.1,No
+S0011,24,Male,BA,3,7.58,3,66.40,Hostel,None,3.4,10,5.7,Yes
+S0012,20,Female,MCA,2,6.97,4,98.60,Day Scholar,None,7.1,1,4.0,No
+S0013,24,Male,BCA,2,6.55,7,51.30,Hostel,Literature,5.9,3,6.9,Yes
+S0014,23,Male,BA,1,7.45,6,50.90,Room,Literature,1.7,8,5.5,Yes
+S0015,23,Female,BBA,2,5.21,9,69.50,Day Scholar,Tech,0.5,8,8.9,No
+S0016,21,Male,MTech,1,8.97,9,93.60,Day Scholar,Tech,1.0,7,4.1,No
+S0017,17,Male,BCom,3,7.03,4,85.00,Hostel,Literature,5.3,8,6.0,No
+S0018,18,Male,MTech,2,4.40,9,71.70,Hostel,Literature,0.8,2,3.6,No
+S0019,23,Male,BCom,2,6.15,5,80.70,Room,Literature,8.4,7,9.9,No
+S0020,22,Male,BBA,2,9.39,6,97.50,Hostel,Cultural,6.5,9,6.8,Yes
+S0021,21,Male,BBA,2,9.40,7,94.10,Day Scholar,Sports,8.5,1,7.8,Yes
+S0022,23,Male,MCA,2,4.88,6,72.50,Room,Cultural,7.4,8,5.2,Yes
+S0023,24,Male,BTech,3,8.22,2,92.90,Hostel,Literature,7.7,7,9.0,Yes
+S0024,24,Male,BCA,2,6.26,7,97.20,Hostel,Cultural,6.3,5,7.2,No
+S0025,20,Male,BA,2,4.23,6,74.20,Hostel,Literature,3.8,3,6.2,No
+S0026,22,Female,BTech,3,8.98,5,77.30,Room,Literature,6.6,3,5.8,No
+S0027,25,Male,BCom,2,5.69,9,71.30,Day Scholar,None,6.4,8,4.0,No
+S0028,20,Female,MBA,1,4.99,3,53.50,Day Scholar,Literature,4.3,4,4.4,No
+S0029,23,Female,MBA,2,4.92,6,85.20,Day Scholar,Literature,6.6,3,4.8,No
+S0030,19,Male,MCA,2,8.15,10,92.60,Hostel,Sports,4.5,4,8.5,Yes
+S0031,25,Female,BA,1,8.51,2,53.10,Room,Sports,6.1,1,4.3,No
+S0032,21,Male,BTech,4,6.27,10,70.20,Hostel,Sports,2.2,3,6.7,No
+S0033,23,Female,BA,1,9.72,8,60.00,Hostel,None,6.6,9,7.5,Yes
+S0034,25,Female,MBA,2,6.44,4,84.40,Room,Tech,8.9,1,5.6,No
+S0035,21,Female,BCom,2,4.31,6,71.90,Hostel,Literature,3.4,1,9.4,Yes
+S0036,25,Male,MCA,2,8.50,6,83.30,Day Scholar,Literature,0.4,4,7.2,No
+S0037,22,Female,BTech,3,7.60,10,64.90,Room,Cultural,6.6,6,6.1,Yes
+S0038,21,Male,MTech,2,6.20,7,88.60,Day Scholar,Cultural,5.8,10,6.6,No
+S0039,25,Male,BA,2,6.74,4,63.30,Hostel,Literature,1.7,5,3.7,No
+S0040,19,Female,BCA,2,4.07,2,62.50,Hostel,Literature,4.3,4,7.4,Yes
+S0041,27,Male,MCA,2,9.89,3,54.80,Hostel,Literature,1.2,9,6.6,No
+S0042,17,Male,BSc CS,3,6.61,3,57.30,Room,Tech,3.9,3,9.1,No
+S0043,18,Female,MTech,2,9.78,5,76.80,Room,None,2.7,8,9.3,Yes
+S0044,23,Male,BSc CS,3,5.51,2,71.60,Room,Cultural,3.5,6,10.0,No
+S0045,17,Female,BA,1,5.91,6,53.80,Room,Literature,6.8,9,6.2,Yes
+S0046,25,Male,BBA,3,8.55,5,50.30,Room,Tech,6.8,10,4.5,No
+S0047,17,Female,BCom,2,6.17,3,78.80,Day Scholar,Tech,7.0,4,6.2,Yes
+S0048,24,Female,BA,3,7.24,4,66.30,Hostel,Sports,4.0,8,5.7,Yes
+S0049,23,Female,BSc CS,1,9.94,8,98.60,Day Scholar,Literature,7.7,4,6.6,No
+S0050,23,Female,BBA,3,9.16,9,73.40,Room,Tech,8.2,6,6.3,Yes
+S0051,24,Female,MTech,1,7.29,2,71.10,Hostel,Cultural,8.0,9,6.8,No
+S0052,24,Male,BSc CS,2,9.23,9,63.00,Day Scholar,None,8.7,7,7.3,Yes
+S0053,24,Female,BCom,2,7.67,4,70.50,Hostel,Tech,5.3,6,7.8,Yes
+S0054,17,Female,BCA,2,7.75,9,72.50,Room,Sports,6.1,3,9.2,Yes
+S0055,23,Female,BBA,3,7.53,6,82.00,Hostel,Tech,1.2,2,7.0,No
+S0056,17,Female,MBA,2,8.81,8,56.00,Day Scholar,Tech,8.1,7,4.7,Yes
+S0057,18,Male,MCA,2,5.37,10,58.90,Room,Sports,4.4,7,6.5,No
+S0058,27,Male,BSc CS,3,9.24,6,84.30,Hostel,Cultural,6.0,2,9.4,Yes
+S0059,27,Male,MCA,2,6.45,2,85.60,Day Scholar,Cultural,2.3,7,4.4,Yes
+S0060,19,Female,BTech,4,6.86,6,57.20,Hostel,Sports,2.0,8,10.0,No
+S0061,18,Male,MCA,2,5.66,8,84.60,Hostel,None,3.6,8,8.6,Yes
+S0062,21,Male,BBA,3,9.90,10,54.80,Day Scholar,Sports,7.8,7,9.1,Yes
+S0063,22,Female,BSc CS,1,4.76,2,99.70,Room,Cultural,6.0,3,8.4,Yes
+S0064,23,Female,BBA,3,6.09,8,71.50,Room,Cultural,1.6,7,4.5,Yes
+S0065,19,Female,BSc CS,2,9.90,2,61.90,Day Scholar,Sports,0.4,1,5.3,No
+S0066,21,Female,BCA,1,6.34,5,80.10,Hostel,Sports,4.0,9,7.7,Yes
+S0067,18,Male,BCom,2,6.43,10,84.60,Room,Tech,0.9,5,8.3,No
+S0068,18,Male,MTech,2,7.49,3,71.40,Hostel,None,7.7,10,8.8,Yes
+S0069,21,Female,MTech,1,5.55,5,88.20,Room,None,1.4,2,7.0,Yes
+S0070,19,Male,MCA,1,4.36,5,93.90,Room,None,2.8,7,6.0,No
+S0071,24,Female,MTech,2,4.97,10,87.00,Day Scholar,Sports,8.5,4,9.8,Yes
+S0072,19,Male,MCA,1,5.75,7,66.80,Hostel,Cultural,2.7,1,5.5,Yes
+S0073,18,Male,MCA,1,7.56,9,57.50,Room,Cultural,0.9,10,5.0,No
+S0074,23,Female,MBA,2,5.19,8,64.40,Hostel,None,8.8,6,3.9,Yes
+S0075,18,Male,BTech,1,4.22,6,85.70,Room,None,2.9,8,6.0,Yes
+S0076,24,Female,BBA,1,8.73,7,93.10,Day Scholar,Tech,1.3,10,9.5,No
+S0077,26,Female,BSc CS,2,4.17,4,66.10,Room,Tech,9.0,6,9.7,No
+S0078,25,Female,MTech,1,7.94,3,50.00,Day Scholar,Cultural,9.0,6,6.0,Yes
+S0079,21,Male,MTech,1,5.19,7,72.40,Room,Sports,2.7,6,3.8,No
+S0080,19,Male,BA,2,6.73,2,65.30,Room,Sports,3.3,4,8.1,No
+S0081,23,Male,BCom,3,4.27,7,88.40,Day Scholar,Literature,8.1,9,6.5,Yes
+S0082,20,Male,BA,1,9.25,4,57.10,Hostel,Sports,0.1,7,8.3,Yes
+S0083,26,Male,BCom,3,9.90,5,93.30,Room,Literature,3.3,10,3.6,Yes
+S0085,22,Male,MBA,2,6.86,3,89.70,Room,Sports,8.5,9,7.0,Yes
+S0086,26,Female,MTech,1,8.61,4,75.00,Hostel,Tech,5.1,6,7.0,Yes
+S0087,26,Female,BBA,1,4.17,5,71.40,Hostel,Tech,2.1,5,9.5,No
+S0088,23,Male,MBA,2,8.75,6,54.10,Day Scholar,Cultural,2.3,5,4.8,Yes
+S0089,25,Female,BSc CS,2,8.15,9,95.30,Room,None,6.2,5,3.7,No
+S0090,18,Female,BCA,2,8.39,3,69.50,Room,Literature,1.6,10,6.7,Yes
+S0091,27,Male,BCA,1,9.67,2,67.90,Room,Tech,2.7,2,5.7,No
+S0092,24,Female,MTech,2,6.28,3,62.60,Day Scholar,None,2.2,1,4.8,No
+S0093,20,Female,MCA,2,9.04,7,91.60,Room,Cultural,5.3,4,8.2,No
+S0094,24,Male,BSc CS,2,6.44,8,83.20,Hostel,Cultural,3.9,7,4.9,No
+S0095,19,Male,MBA,1,4.38,5,85.20,Room,Cultural,2.0,2,4.3,No
+S0096,27,Male,BA,3,5.69,5,87.00,Hostel,None,2.5,9,4.4,No
+S0097,25,Male,BA,3,6.49,8,98.90,Room,None,3.7,2,8.3,Yes
+S0098,18,Male,MBA,2,9.06,6,80.80,Room,Sports,2.3,7,4.0,No
+S0099,19,Male,MCA,1,6.96,8,57.60,Hostel,Cultural,0.9,5,5.2,No
+S0100,17,Female,BTech,3,5.32,8,96.20,Hostel,Cultural,8.8,5,4.1,No
+S0101,17,Male,BSc CS,2,9.37,10,99.60,Room,Sports,3.0,6,8.6,No
+S0102,19,Male,BSc CS,2,9.08,9,97.40,Room,Sports,4.2,7,5.2,No
+S0103,25,Female,MTech,1,7.03,6,84.00,Day Scholar,Literature,8.9,8,6.7,No
+S0104,25,Male,BA,2,9.25,10,90.20,Day Scholar,None,5.4,2,7.5,Yes
+S0105,23,Male,BBA,2,9.70,8,61.00,Day Scholar,Tech,2.9,1,6.7,No
+S0106,17,Female,BCA,3,8.32,3,94.50,Room,Cultural,2.0,2,7.3,Yes
+S0107,21,Male,BTech,3,8.64,9,99.90,Day Scholar,Sports,3.8,2,8.6,No
+S0108,27,Female,MBA,2,7.12,6,77.30,Hostel,Tech,5.7,4,5.6,Yes
+S0109,23,Female,BTech,1,8.89,8,50.90,Hostel,None,8.5,6,7.8,No
+S0110,18,Male,MBA,2,7.96,5,79.40,Day Scholar,Cultural,5.7,7,4.2,Yes
+S0111,27,Female,BCA,2,5.47,7,89.20,Day Scholar,None,6.6,5,6.1,Yes
+S0112,18,Female,MTech,1,4.23,5,60.80,Room,Cultural,2.6,3,8.4,No
+S0113,21,Female,MTech,2,6.06,7,67.10,Hostel,Tech,0.1,1,9.8,No
+S0114,19,Female,BCA,3,6.97,5,59.90,Day Scholar,None,2.9,10,6.5,Yes
+S0115,18,Female,BTech,1,4.79,8,70.40,Room,Literature,6.4,4,9.9,No
+S0116,26,Male,BTech,3,7.20,3,60.40,Day Scholar,Sports,1.3,5,9.9,No
+S0117,19,Male,MBA,1,4.63,2,92.10,Room,Sports,3.1,7,7.0,Yes
+S0118,19,Male,BA,2,4.04,5,75.40,Hostel,Sports,3.0,8,7.2,Yes
+S0119,18,Female,BCom,1,6.13,9,88.70,Day Scholar,Sports,5.9,5,4.9,Yes
+S0120,20,Female,BCA,2,4.41,10,90.70,Hostel,Sports,0.4,9,5.8,Yes
+S0121,19,Female,MCA,1,7.38,4,65.70,Day Scholar,Sports,3.7,5,9.4,Yes
+S0122,17,Male,BBA,3,8.96,3,63.00,Hostel,Cultural,6.0,8,5.6,Yes
+S0123,26,Male,BCom,1,5.48,5,70.50,Day Scholar,None,6.7,10,6.8,Yes
+S0124,25,Male,BTech,1,9.45,5,82.00,Day Scholar,Tech,5.8,9,8.8,No
+S0125,23,Male,BTech,3,6.30,10,92.40,Day Scholar,Sports,4.4,7,6.3,No
+S0126,20,Female,MCA,1,5.52,3,93.00,Day Scholar,Tech,8.6,6,9.7,Yes
+S0127,20,Female,BCom,2,7.82,7,54.70,Room,Tech,5.3,7,8.7,No
+S0128,25,Male,MBA,1,7.32,8,79.80,Hostel,Sports,6.8,10,8.8,Yes
+S0129,23,Female,BCA,2,4.54,3,93.60,Room,Cultural,1.0,3,9.8,No
+S0130,25,Female,BTech,3,7.03,7,75.20,Room,Sports,4.1,1,8.8,No
+S0131,17,Female,BCA,3,9.06,2,97.80,Hostel,Cultural,0.2,5,7.3,No
+S0132,18,Male,MCA,1,4.89,3,75.30,Day Scholar,Tech,5.4,8,3.7,No
+S0133,20,Female,MTech,2,4.49,7,73.80,Day Scholar,Tech,8.2,5,6.3,Yes
+S0134,26,Female,MCA,1,4.50,9,96.00,Room,Tech,1.6,3,8.6,Yes
+S0135,22,Male,BSc CS,3,6.15,4,58.20,Day Scholar,Tech,5.3,8,8.4,Yes
+S0136,20,Female,BCA,2,5.33,9,78.40,Hostel,Cultural,6.2,3,7.2,Yes
+S0137,27,Male,MTech,2,5.27,2,73.30,Day Scholar,None,2.1,10,7.4,No
+S0138,20,Female,BTech,2,7.49,3,83.20,Day Scholar,None,4.6,3,7.5,No
+S0139,25,Male,BBA,2,4.24,6,66.90,Day Scholar,Literature,6.1,6,8.6,Yes
+S0140,23,Female,BBA,1,9.28,10,93.00,Day Scholar,Tech,7.8,8,6.0,No
+S0141,25,Male,BCA,3,7.30,2,80.10,Room,Cultural,3.7,2,4.7,Yes
+S0142,24,Male,BSc CS,1,9.63,4,64.00,Hostel,Literature,3.0,7,5.5,Yes
+S0143,23,Male,BTech,2,5.99,9,79.50,Room,Cultural,5.8,5,8.1,Yes
+S0144,26,Female,MCA,1,7.59,10,95.50,Room,Sports,7.0,1,4.7,No
+S0145,17,Male,BCom,1,5.80,7,69.90,Day Scholar,Tech,8.8,4,4.8,No
+S0146,19,Female,BSc CS,3,8.71,9,86.00,Hostel,None,7.4,2,6.4,Yes
+S0147,27,Male,BBA,1,6.32,6,86.30,Day Scholar,Cultural,6.4,1,7.5,No
+S0148,17,Male,BTech,1,7.92,6,93.50,Room,Sports,5.3,6,4.7,Yes
+S0149,24,Male,BBA,3,6.33,7,96.30,Hostel,Tech,2.1,6,9.9,Yes
+S0150,18,Female,MCA,2,9.31,3,62.50,Room,Cultural,4.4,6,7.5,Yes
+S0151,24,Male,BBA,3,4.08,9,62.80,Hostel,None,0.2,1,9.7,No
+S0152,22,Male,BBA,2,8.22,6,70.30,Hostel,Literature,7.6,4,6.3,No
+S0153,25,Male,BCom,2,4.84,5,70.40,Room,Sports,0.7,4,10.0,No
+S0154,18,Female,MCA,2,9.60,4,64.60,Room,Literature,4.1,1,4.2,No
+S0155,20,Female,BCA,1,4.10,8,87.10,Room,Literature,6.8,1,4.1,Yes
+S0156,19,Female,BCA,1,5.21,4,77.30,Day Scholar,Cultural,6.0,8,7.3,No
+S0157,25,Female,MBA,2,5.43,7,87.60,Room,Literature,0.2,4,7.4,No
+S0158,23,Male,BCA,1,5.19,4,92.60,Room,Cultural,3.1,9,7.7,No
+S0159,24,Male,BBA,2,8.02,6,87.00,Hostel,Cultural,5.8,7,8.5,No
+S0160,26,Male,BSc CS,2,8.95,4,86.20,Day Scholar,Sports,8.6,1,4.1,No
+S0161,21,Female,BA,2,5.88,4,84.30,Room,Cultural,8.1,2,5.0,Yes
+S0162,24,Male,BTech,3,4.58,5,95.30,Room,Tech,8.7,2,3.8,Yes
+S0163,20,Female,BSc CS,2,9.33,8,64.90,Hostel,Tech,2.1,3,3.9,No
+S0164,25,Male,BTech,3,4.81,8,79.10,Hostel,Cultural,3.6,3,5.0,No
+S0165,21,Male,MTech,1,4.72,6,65.60,Day Scholar,Sports,0.7,10,7.0,No
+S0166,21,Male,BBA,3,5.11,4,55.40,Day Scholar,None,5.7,6,4.7,Yes
+S0167,18,Male,BSc CS,1,7.78,9,76.30,Day Scholar,Cultural,5.0,3,6.6,No
+S0168,22,Female,MTech,1,5.32,10,72.40,Hostel,Tech,4.1,9,9.8,Yes
+S0169,21,Female,BBA,1,8.78,3,57.20,Room,Cultural,5.9,10,8.4,No
+S0170,21,Male,BSc CS,1,9.17,9,94.00,Room,Tech,1.2,9,5.8,Yes
+S0171,22,Male,MTech,1,7.28,2,61.90,Hostel,None,2.5,4,5.8,No
+S0172,22,Female,BTech,2,4.91,6,50.30,Hostel,Cultural,6.7,6,8.1,Yes
+S0173,20,Female,BCom,3,4.34,9,84.50,Day Scholar,Tech,6.3,5,6.5,Yes
+S0174,22,Female,BA,2,4.22,6,68.50,Hostel,Sports,0.5,9,6.2,Yes
+S0175,22,Male,BBA,2,7.69,3,92.20,Hostel,None,7.7,10,5.4,No
+S0176,20,Female,BA,1,4.89,10,84.40,Room,Sports,6.4,4,8.6,No
+S0177,25,Female,BCom,3,6.66,7,73.90,Day Scholar,Tech,5.4,5,10.0,Yes
+S0178,26,Female,MBA,2,6.68,10,72.30,Day Scholar,Sports,5.0,5,8.5,No
+S0179,22,Male,BA,3,5.15,8,77.80,Day Scholar,Literature,6.4,5,6.6,Yes
+S0180,24,Male,BCA,2,5.02,3,66.20,Hostel,Cultural,6.7,1,5.9,No
+S0181,21,Female,BTech,4,6.71,7,71.00,Hostel,None,2.5,1,8.8,No
+S0182,18,Female,BSc CS,1,5.17,3,57.30,Day Scholar,Literature,6.4,6,8.5,No
+S0183,24,Male,MCA,1,4.18,9,67.40,Day Scholar,Tech,5.3,2,5.9,No
+S0184,18,Male,BCA,1,5.55,4,54.20,Hostel,Cultural,5.9,6,4.0,No
+S0185,26,Male,BBA,2,8.21,5,72.40,Day Scholar,None,3.9,5,9.5,No
+S0186,18,Male,MBA,1,9.40,8,96.20,Hostel,None,5.8,9,5.8,Yes
+S0187,25,Female,MCA,1,8.96,7,56.60,Day Scholar,Sports,2.8,6,9.4,Yes
+S0188,22,Female,BA,2,9.91,10,93.80,Room,Sports,2.4,3,8.4,Yes
+S0189,24,Male,BCA,3,9.42,9,60.40,Day Scholar,Tech,3.3,7,4.7,Yes
+S0190,17,Male,MBA,2,9.87,9,87.60,Hostel,Cultural,7.3,3,4.2,No
+S0191,22,Female,BTech,4,5.26,6,90.40,Day Scholar,Literature,3.6,5,8.8,No
+S0192,23,Male,BBA,3,8.94,7,74.40,Room,Literature,0.9,6,6.0,Yes
+S0193,19,Male,BTech,4,9.84,3,94.70,Day Scholar,Sports,6.4,9,4.5,Yes
+S0194,27,Male,BSc CS,3,8.88,6,70.30,Room,Cultural,3.8,1,3.7,Yes
+S0195,27,Male,MCA,1,5.82,6,56.70,Hostel,Tech,5.3,1,5.0,No
+S0196,26,Female,BCom,3,6.04,6,88.00,Room,Literature,6.1,3,6.3,No
+S0197,27,Female,MCA,2,4.58,6,94.50,Hostel,Cultural,1.5,9,5.2,No
+S0198,17,Male,BCA,2,5.36,10,81.80,Hostel,None,8.1,3,4.5,No
+S0199,24,Female,MBA,2,8.86,9,84.50,Hostel,Sports,3.2,2,6.2,No
+S0200,22,Female,BA,1,6.74,4,76.70,Day Scholar,None,0.3,7,4.5,Yes
+S0201,27,Female,BSc CS,2,5.49,9,68.60,Room,Cultural,6.7,8,8.1,No
+S0202,25,Female,MTech,2,4.44,6,75.30,Room,None,7.0,1,5.9,No
+S0203,19,Female,BTech,1,7.90,7,62.60,Hostel,Cultural,3.1,4,3.6,No
+S0204,22,Male,BCA,3,8.39,4,71.40,Hostel,Tech,8.7,7,6.0,No
+S0205,22,Female,BTech,4,7.57,3,77.80,Room,Tech,0.7,4,9.4,Yes
+S0206,25,Female,BTech,3,7.23,5,92.10,Day Scholar,Tech,8.5,6,9.8,No
+S0207,21,Male,BCA,1,5.32,8,57.90,Day Scholar,Cultural,2.7,6,9.3,Yes
+S0208,24,Female,BCom,2,4.62,4,61.90,Day Scholar,Tech,6.5,7,3.6,Yes
+S0209,24,Female,MCA,1,9.56,10,96.70,Day Scholar,None,6.6,7,5.1,Yes
+S0210,17,Female,MBA,1,5.46,4,78.80,Hostel,Tech,4.9,4,8.1,No
+S0211,21,Female,BBA,2,8.96,8,59.40,Room,Literature,7.1,1,4.9,Yes
+S0212,22,Male,BSc CS,2,6.35,3,85.00,Room,Sports,1.2,1,9.5,No
+S0213,25,Female,BCom,2,4.35,9,51.40,Room,Cultural,3.1,4,7.8,Yes
+S0214,22,Female,MBA,1,8.03,9,54.70,Room,Sports,0.9,6,4.0,Yes
+S0215,21,Female,BCom,1,4.46,9,77.60,Room,Literature,5.6,9,4.1,No
+S0216,21,Male,MCA,1,8.42,6,51.40,Room,Tech,6.5,1,7.9,Yes
+S0217,18,Female,BCA,3,9.83,10,70.40,Hostel,Literature,8.7,8,4.0,No
+S0218,17,Male,BCom,1,9.49,8,57.40,Room,None,7.4,8,9.6,No
+S0219,25,Male,MCA,1,6.06,7,77.50,Room,Cultural,6.7,1,6.4,Yes
+S0220,20,Female,MBA,1,9.95,5,79.60,Day Scholar,Cultural,2.1,9,8.6,No
+S0221,21,Female,BA,3,4.02,2,73.80,Day Scholar,Literature,1.5,3,5.6,No
+S0222,18,Male,BCom,1,8.30,4,82.90,Room,Literature,0.3,10,4.5,No
+S0223,27,Female,MTech,1,4.29,8,68.90,Room,Tech,2.3,7,5.0,Yes
+S0224,25,Female,MBA,2,5.39,9,75.10,Room,None,3.2,2,8.1,No
+S0225,17,Male,MCA,2,5.36,9,60.80,Room,Tech,4.7,5,9.5,No
+S0226,27,Male,BA,1,9.71,8,75.20,Room,None,3.0,2,7.1,Yes
+S0227,27,Male,MTech,2,4.41,7,86.70,Hostel,Literature,3.3,7,7.7,Yes
+S0228,27,Male,MBA,2,9.84,8,85.50,Room,Sports,3.1,9,5.8,Yes
+S0229,17,Female,MBA,2,4.21,2,51.50,Hostel,Literature,5.2,1,5.4,No
+S0230,19,Male,MTech,1,9.96,10,66.40,Room,None,4.9,4,9.1,Yes
+S0231,24,Female,MTech,1,4.40,9,74.70,Hostel,Tech,6.3,10,9.2,No
+S0232,24,Male,BCA,3,9.38,9,67.10,Room,None,3.9,3,6.7,Yes
+S0233,19,Female,MCA,1,4.36,8,84.90,Day Scholar,Literature,4.8,7,4.3,No
+S0234,22,Male,BSc CS,3,5.34,5,57.80,Hostel,Sports,0.3,8,7.3,Yes
+S0235,19,Male,BCom,1,5.41,6,66.00,Day Scholar,Literature,8.0,6,7.9,No
+S0236,27,Male,MCA,1,9.44,2,91.60,Hostel,Sports,4.3,2,7.1,Yes
+S0237,25,Female,MBA,2,4.51,8,59.10,Day Scholar,None,3.0,2,7.5,No
+S0238,17,Female,BA,1,6.15,6,50.10,Day Scholar,Cultural,3.4,10,5.8,Yes
+S0239,17,Male,BSc CS,3,7.19,6,81.00,Room,Cultural,3.0,8,6.7,No
+S0240,26,Female,BCom,1,5.56,6,84.40,Day Scholar,Literature,0.3,1,9.1,Yes
+S0241,26,Male,BCom,1,5.49,3,68.30,Day Scholar,Tech,3.0,2,6.5,No
+S0242,23,Female,BA,2,7.97,4,89.10,Room,Cultural,1.6,2,6.8,No
+S0243,18,Male,MCA,2,4.30,8,78.80,Hostel,Tech,9.0,2,8.1,Yes
+S0244,19,Male,BCA,3,4.61,2,93.20,Hostel,Sports,1.8,5,3.9,Yes
+S0245,27,Female,BBA,1,7.82,4,87.80,Hostel,Literature,1.2,7,4.3,No
+S0246,20,Female,BCA,3,6.90,6,50.30,Room,Tech,6.9,2,9.2,No
+S0247,25,Female,BA,3,6.40,9,88.80,Hostel,Literature,4.0,7,5.2,No
+S0248,17,Female,MCA,2,8.79,4,82.80,Room,Literature,3.1,4,9.5,No
+S0249,19,Male,MBA,1,9.54,4,93.00,Day Scholar,Sports,3.6,5,6.7,Yes
+S0250,22,Female,MCA,2,7.02,10,52.20,Room,Literature,6.0,8,8.8,Yes
+S0251,23,Female,BSc CS,1,5.72,10,80.60,Hostel,Literature,0.7,4,7.7,No
+S0252,24,Male,BBA,1,4.39,4,54.10,Room,Cultural,5.0,4,3.7,No
+S0253,26,Female,MTech,2,9.06,10,97.90,Hostel,Literature,8.1,3,7.2,No
+S0254,27,Male,BCom,1,7.85,5,86.20,Hostel,None,2.0,5,5.8,No
+S0255,24,Male,MBA,2,5.94,2,82.90,Day Scholar,Literature,1.1,8,4.6,No
+S0256,23,Male,MTech,2,5.93,4,50.70,Hostel,Tech,8.3,10,7.6,Yes
+S0257,26,Male,MCA,1,6.88,9,84.80,Room,Literature,0.7,1,8.1,No
+S0258,22,Male,BCA,2,7.57,4,82.00,Day Scholar,Literature,6.4,3,9.2,Yes
+S0259,20,Male,MTech,2,6.13,9,93.60,Day Scholar,Cultural,7.5,3,7.6,Yes
+S0260,26,Male,BA,2,7.66,3,81.90,Room,Sports,0.1,3,8.4,Yes
+S0261,22,Female,BA,1,8.23,2,74.40,Hostel,Tech,6.2,2,9.4,No
+S0262,23,Male,BBA,3,7.14,8,91.90,Room,Cultural,4.2,3,3.8,Yes
+S0263,23,Female,BSc CS,1,5.88,6,72.20,Day Scholar,Cultural,4.8,7,9.3,No
+S0264,22,Male,BCom,2,4.34,6,67.60,Room,Sports,9.0,2,3.8,Yes
+S0265,24,Female,BBA,1,6.40,8,65.80,Room,Cultural,5.9,6,7.4,Yes
+S0266,19,Female,BSc CS,3,5.31,3,57.00,Room,Sports,4.2,7,8.3,No
+S0267,18,Female,BA,3,7.66,7,58.70,Day Scholar,Literature,0.9,6,5.4,Yes
+S0268,20,Male,BCom,3,5.68,7,74.70,Hostel,Cultural,2.1,8,5.8,Yes
+S0269,23,Female,BCA,3,7.16,9,55.20,Day Scholar,Literature,1.0,9,8.6,No
+S0270,17,Male,BBA,2,8.59,9,86.60,Room,Tech,5.1,10,5.8,Yes
+S0271,23,Male,BSc CS,3,4.31,3,73.80,Room,Literature,2.2,10,6.2,No
+S0272,21,Male,MTech,2,7.95,4,85.50,Day Scholar,Literature,0.3,9,4.2,No
+S0273,19,Female,MCA,2,6.60,5,61.90,Day Scholar,Sports,4.6,3,6.6,Yes
+S0274,27,Female,MBA,1,9.97,5,88.70,Room,Cultural,8.1,10,3.6,No
+S0275,18,Female,MBA,1,4.59,10,90.20,Day Scholar,Cultural,2.1,5,6.7,Yes
+S0276,18,Male,MCA,1,4.48,3,80.60,Day Scholar,Sports,2.6,7,5.9,No
+S0277,17,Female,BCA,3,6.43,7,58.00,Hostel,Sports,8.3,4,9.5,Yes
+S0278,26,Male,BCA,2,5.46,9,53.30,Room,Tech,2.4,9,6.5,Yes
+S0279,19,Female,BBA,3,8.84,5,65.70,Hostel,Sports,6.5,6,5.1,Yes
+S0280,24,Male,MCA,2,7.16,7,87.40,Day Scholar,Sports,8.0,3,5.5,No
+S0281,26,Female,BTech,1,6.72,5,63.00,Hostel,None,0.2,6,7.3,No
+S0282,21,Male,BCom,3,4.81,7,90.40,Hostel,Sports,7.8,4,7.8,No
+S0283,26,Female,BTech,2,6.26,5,65.80,Day Scholar,Literature,0.4,1,7.0,Yes
+S0284,22,Male,MBA,1,5.86,3,58.80,Room,Tech,3.7,4,6.3,Yes
+S0285,18,Male,BBA,1,9.61,4,73.10,Room,Sports,1.8,4,9.2,No
+S0286,17,Female,MBA,1,7.65,2,83.90,Room,None,3.8,9,7.3,Yes
+S0287,20,Female,BCom,3,9.55,5,96.00,Room,Literature,3.7,4,3.9,Yes
+S0288,19,Male,BSc CS,1,6.12,5,58.50,Hostel,None,6.8,3,6.4,No
+S0289,18,Female,BTech,1,8.33,10,81.70,Day Scholar,None,8.0,8,4.8,Yes
+S0290,27,Female,MTech,1,8.65,2,54.60,Room,Cultural,4.2,7,7.0,No
+S0291,23,Female,BSc CS,1,7.53,2,67.40,Room,Sports,5.9,5,6.8,Yes
+S0292,18,Female,BA,3,5.41,6,65.00,Room,Literature,5.2,9,10.0,No
+S0293,20,Female,BSc CS,1,9.36,2,77.50,Hostel,Literature,4.5,10,4.5,No
+S0294,24,Female,MCA,2,7.24,4,79.10,Room,Literature,7.0,8,6.5,No
+S0295,23,Female,MTech,1,6.28,8,72.80,Hostel,Literature,1.5,2,8.4,Yes
+S0296,25,Male,BCom,2,8.99,4,75.70,Room,Cultural,2.3,6,7.0,Yes
+S0297,20,Female,MBA,2,6.58,10,95.50,Hostel,None,5.8,6,8.1,Yes
+S0298,21,Male,MTech,2,9.36,4,78.20,Day Scholar,Cultural,6.4,5,8.0,No
+S0299,21,Male,BCA,3,8.67,7,90.80,Day Scholar,Tech,5.9,1,5.3,No
+S0300,27,Female,MCA,1,5.03,2,65.80,Room,Cultural,6.0,9,8.3,Yes
+S0301,17,Male,BCom,3,6.64,5,60.90,Room,Tech,6.0,8,8.9,Yes
+S0302,18,Female,MBA,1,5.45,7,58.50,Hostel,Literature,5.3,7,3.9,No
+S0303,26,Male,BCA,3,6.40,3,99.00,Day Scholar,Cultural,3.9,6,5.9,Yes
+S0304,26,Female,MBA,1,4.97,8,76.90,Day Scholar,Literature,2.0,1,6.9,No
+S0305,23,Female,BA,3,8.17,3,99.30,Day Scholar,Sports,7.5,9,7.4,No
+S0306,27,Male,MTech,2,5.48,9,61.20,Day Scholar,Sports,5.7,6,5.8,Yes
+S0307,17,Female,BSc CS,2,6.38,7,78.50,Day Scholar,Sports,3.5,9,9.8,No
+S0308,25,Male,MCA,2,9.61,9,86.60,Day Scholar,Tech,0.2,2,8.0,No
+S0309,19,Male,BSc CS,3,5.22,10,59.40,Room,None,5.6,8,9.4,No
+S0310,25,Female,BA,1,5.80,4,89.50,Room,Sports,0.1,1,7.2,No
+S0311,27,Male,BCom,1,4.61,5,84.00,Day Scholar,None,2.3,10,4.2,No
+S0312,21,Male,BCom,3,8.79,3,84.30,Hostel,Sports,5.3,5,7.5,Yes
+S0313,25,Male,MBA,1,9.59,9,95.50,Day Scholar,Sports,0.9,6,3.8,No
+S0314,27,Male,MCA,1,8.71,2,64.30,Day Scholar,Tech,0.3,6,5.3,No
+S0315,18,Male,MTech,2,6.40,7,75.30,Hostel,Cultural,1.7,10,6.3,No
+S0316,27,Female,BCA,1,9.61,9,70.90,Day Scholar,Cultural,7.3,4,4.5,No
+S0317,25,Male,BSc CS,3,8.57,8,80.50,Day Scholar,Sports,7.7,5,7.0,Yes
+S0318,19,Male,MCA,2,8.50,10,92.70,Hostel,Tech,6.7,2,6.7,Yes
+S0319,20,Male,MTech,1,7.96,2,93.10,Hostel,Sports,6.5,8,6.8,No
+S0320,20,Female,MCA,2,5.82,4,78.00,Room,Literature,8.0,2,4.4,No
+S0321,17,Female,BCom,1,7.91,4,96.30,Hostel,None,6.3,8,8.4,Yes
+S0322,22,Male,BTech,2,5.99,3,63.80,Room,Literature,6.4,6,6.4,No
+S0323,21,Male,BTech,3,4.55,4,64.30,Hostel,Literature,2.1,9,7.3,No
+S0324,18,Female,BCA,2,6.86,2,91.60,Hostel,None,7.1,5,6.6,Yes
+S0325,21,Female,BSc CS,3,5.83,8,51.40,Hostel,Tech,1.0,2,6.3,No
+S0326,27,Female,BBA,1,7.45,3,61.20,Day Scholar,Literature,4.7,8,6.9,Yes
+S0327,17,Female,BSc CS,3,7.98,10,61.60,Hostel,Sports,3.8,4,5.9,No
+S0328,23,Female,BTech,1,6.55,7,82.30,Day Scholar,Literature,4.5,1,9.8,Yes
+S0329,27,Female,BCA,3,8.67,7,59.10,Day Scholar,Cultural,4.8,4,8.6,No
+S0330,18,Female,BCom,1,8.69,3,73.10,Day Scholar,Tech,6.8,7,7.0,Yes
+S0331,22,Male,BBA,1,4.80,8,88.20,Hostel,None,2.8,4,3.9,No
+S0332,22,Female,MCA,2,6.06,8,54.30,Room,Sports,3.5,3,8.4,Yes
+S0333,18,Male,BSc CS,3,9.55,7,62.80,Hostel,Literature,6.2,4,8.8,No
+S0334,22,Female,MCA,1,6.71,7,64.40,Hostel,Sports,1.4,7,8.0,Yes
+S0335,20,Male,BCom,1,9.91,3,73.60,Day Scholar,Literature,4.0,10,6.4,No
+S0336,22,Female,BA,2,7.77,2,79.10,Hostel,Literature,6.2,5,6.9,Yes
+S0337,25,Male,BCA,3,8.40,7,67.80,Room,Cultural,3.6,5,6.0,No
+S0338,26,Female,MCA,2,6.51,10,64.00,Day Scholar,Tech,0.4,8,8.9,Yes
+S0339,20,Female,MBA,1,7.15,4,58.10,Room,None,3.3,1,7.8,Yes
+S0340,23,Male,BA,1,4.87,3,93.90,Room,None,2.2,5,7.1,Yes
+S0341,18,Female,BCA,2,6.24,10,99.20,Room,Cultural,2.6,6,8.0,Yes
+S0342,20,Male,BTech,3,9.41,7,55.20,Day Scholar,Cultural,4.5,1,5.3,No
+S0343,26,Male,BTech,1,5.23,3,56.50,Hostel,Literature,5.4,9,8.4,Yes
+S0344,20,Male,BA,1,7.77,9,97.30,Day Scholar,Literature,6.7,4,8.7,Yes
+S0345,27,Female,BSc CS,3,7.28,6,88.10,Room,Tech,4.8,9,8.4,Yes
+S0346,22,Female,BA,3,4.46,7,91.70,Hostel,Tech,7.6,4,8.8,No
+S0347,18,Male,BBA,2,4.04,7,82.00,Day Scholar,Cultural,1.4,6,7.8,No
+S0348,21,Female,BBA,2,6.23,10,58.50,Day Scholar,Literature,6.9,8,5.6,No
+S0349,25,Male,BSc CS,2,9.24,7,88.80,Room,None,2.3,2,5.5,No
+S0350,17,Female,MBA,2,6.12,9,64.30,Room,Cultural,8.4,4,7.2,No
+S0351,27,Male,BA,1,4.62,8,94.00,Day Scholar,Sports,2.1,2,6.0,No
+S0352,19,Male,BA,2,7.50,9,75.10,Hostel,Cultural,4.0,10,3.7,Yes
+S0353,23,Female,BA,1,8.86,7,95.90,Hostel,Cultural,0.1,7,9.0,Yes
+S0354,26,Female,BCom,1,4.17,9,92.50,Room,Sports,4.2,10,4.0,Yes
+S0355,18,Female,BA,1,9.81,4,58.10,Room,Literature,2.3,3,5.7,No
+S0356,21,Female,BA,3,7.79,10,80.70,Room,None,6.7,8,5.4,No
+S0357,18,Female,MBA,2,7.33,2,76.80,Day Scholar,Tech,7.9,1,4.9,No
+S0358,17,Female,BCA,1,9.33,2,91.50,Hostel,Sports,0.4,8,6.1,Yes
+S0359,25,Female,BA,2,4.41,8,54.90,Day Scholar,Tech,7.5,5,4.6,No
+S0360,24,Male,BCom,3,6.01,4,82.90,Room,Tech,6.2,6,5.4,No
+S0361,27,Male,BTech,1,7.31,5,96.90,Room,Literature,7.1,2,7.0,Yes
+S0362,23,Female,BBA,2,6.62,5,53.00,Day Scholar,Cultural,8.2,3,4.2,Yes
+S0363,25,Female,MTech,1,7.50,2,52.10,Day Scholar,Literature,2.2,3,5.5,No
+S0364,21,Male,MCA,1,7.43,5,76.80,Day Scholar,Sports,2.4,1,5.9,Yes
+S0365,24,Male,BCom,3,9.37,9,62.10,Room,Tech,7.2,9,6.2,No
+S0366,20,Male,BCA,2,8.21,4,81.40,Day Scholar,Sports,6.2,4,5.9,Yes
+S0367,20,Female,BA,3,7.22,10,79.50,Hostel,Literature,8.6,10,8.6,No
+S0368,23,Female,BSc CS,2,6.42,5,68.50,Room,Tech,4.4,3,5.0,No
+S0369,24,Female,BCom,2,9.15,3,55.40,Room,None,5.5,9,7.7,No
+S0370,20,Male,MBA,2,5.06,10,92.30,Day Scholar,Sports,4.3,7,3.8,Yes
+S0371,25,Female,BA,2,5.93,2,61.70,Room,Tech,4.4,10,4.4,Yes
+S0372,24,Male,BSc CS,1,5.82,5,59.90,Room,None,0.3,4,9.2,Yes
+S0373,26,Female,BBA,1,8.07,6,50.10,Hostel,Cultural,5.6,4,4.2,No
+S0374,19,Female,BCA,1,7.39,5,98.00,Hostel,Cultural,7.1,9,7.1,Yes
+S0375,18,Female,BCA,3,5.66,8,66.90,Room,None,1.7,3,8.7,No
+S0376,18,Female,MBA,2,4.11,2,71.00,Hostel,Tech,8.1,7,3.6,No
+S0377,25,Male,MTech,2,6.22,8,93.20,Room,Literature,8.3,6,5.9,Yes
+S0378,20,Male,BA,3,8.72,10,88.50,Hostel,Cultural,0.9,4,3.9,No
+S0379,17,Female,BBA,2,6.97,2,65.00,Room,Tech,1.1,3,5.5,Yes
+S0380,22,Female,MBA,2,7.28,6,74.00,Day Scholar,Sports,6.4,10,6.1,No
+S0381,21,Male,BBA,1,7.27,7,65.80,Day Scholar,Tech,2.3,2,8.8,Yes
+S0382,24,Female,MTech,2,9.93,6,68.80,Day Scholar,Sports,7.3,9,6.5,Yes
+S0383,27,Male,BCom,2,5.55,6,54.50,Hostel,Tech,2.3,1,4.7,Yes
+S0384,27,Male,BTech,3,9.21,2,99.50,Day Scholar,Literature,0.1,7,5.8,Yes
+S0385,18,Female,BSc CS,2,8.02,3,69.30,Day Scholar,Tech,7.1,1,8.1,Yes
+S0386,24,Male,BCA,1,4.45,8,98.20,Day Scholar,Literature,5.9,9,3.7,No
+S0387,17,Male,MBA,1,6.86,6,79.00,Room,None,7.0,3,8.6,Yes
+S0388,19,Female,BA,3,8.77,7,92.80,Day Scholar,None,8.9,7,7.7,Yes
+S0389,26,Male,BBA,3,7.90,6,62.60,Room,None,3.9,9,9.1,No
+S0390,22,Female,BCA,3,5.40,3,92.90,Room,Literature,6.0,10,9.1,Yes
+S0391,26,Female,BSc CS,2,8.13,2,56.10,Day Scholar,Literature,3.9,10,7.3,No
+S0392,17,Male,MCA,1,8.01,4,83.20,Hostel,Cultural,6.9,3,4.1,Yes
+S0393,25,Male,MBA,2,4.35,2,52.50,Room,Tech,0.8,2,5.0,Yes
+S0394,20,Male,MBA,1,9.56,5,68.30,Room,Literature,2.0,6,5.2,Yes
+S0395,18,Male,MTech,1,6.72,4,90.10,Room,Literature,6.5,5,5.8,Yes
+S0396,27,Male,MTech,1,7.14,4,73.10,Room,Tech,0.3,10,7.2,No
+S0397,25,Female,BSc CS,2,6.82,3,88.30,Hostel,Cultural,2.6,10,9.2,No
+S0398,22,Female,BA,2,4.41,7,55.90,Hostel,Tech,1.3,1,5.6,Yes
+S0399,21,Female,BA,3,7.19,8,63.00,Day Scholar,Literature,7.0,10,4.3,Yes
+S0400,23,Female,BTech,1,7.51,7,91.70,Hostel,Cultural,3.8,3,7.0,Yes
+S0401,27,Male,BCom,3,7.70,3,82.50,Hostel,Tech,7.8,9,8.9,Yes
+S0402,18,Female,MTech,1,7.19,7,81.70,Hostel,Sports,3.5,4,9.3,No
+S0403,19,Female,BCom,1,4.77,8,86.90,Hostel,Literature,5.0,8,3.6,Yes
+S0404,20,Male,BCom,1,4.72,6,52.20,Day Scholar,Literature,3.8,8,7.1,Yes
+S0405,26,Female,BTech,1,7.34,3,76.10,Room,Literature,6.1,2,9.5,No
+S0406,27,Female,BTech,4,9.43,6,80.70,Hostel,Literature,6.3,10,8.2,Yes
+S0407,20,Female,BTech,2,5.64,9,72.10,Hostel,Cultural,6.1,5,3.7,Yes
+S0408,17,Female,BCA,3,8.00,8,71.30,Room,None,3.8,1,4.9,No
+S0409,19,Female,MTech,2,8.56,5,52.00,Day Scholar,Sports,2.2,6,4.6,No
+S0410,17,Female,MCA,1,7.48,9,54.00,Room,None,1.2,9,8.2,Yes
+S0411,23,Male,BCom,3,9.90,8,58.80,Hostel,Sports,4.6,1,7.9,No
+S0412,22,Female,BBA,1,4.50,3,81.30,Day Scholar,Literature,0.2,10,4.9,No
+S0413,23,Male,BCA,1,7.51,8,63.60,Hostel,Tech,7.0,8,5.2,No
+S0414,24,Male,BCom,2,7.63,10,65.90,Hostel,Sports,4.6,1,7.7,Yes
+S0415,18,Female,BA,1,6.28,7,94.50,Room,Tech,2.3,8,8.3,No
+S0416,25,Female,MBA,1,9.91,6,95.90,Day Scholar,Tech,3.7,7,4.9,Yes
+S0417,24,Female,BCom,3,5.79,3,59.60,Day Scholar,Literature,2.2,2,4.3,No
+S0418,18,Female,BTech,3,9.73,2,92.00,Hostel,Literature,5.2,8,7.8,No
+S0419,26,Female,MCA,1,4.60,9,71.80,Day Scholar,Sports,5.6,7,3.6,Yes
+S0420,18,Female,BTech,1,4.03,4,52.30,Room,Cultural,4.7,2,7.6,No
+S0421,26,Male,BA,3,4.13,10,90.00,Hostel,Sports,5.5,10,8.6,No
+S0422,22,Male,BCom,3,5.23,7,77.10,Hostel,Literature,6.5,9,7.2,Yes
+S0423,21,Male,BCom,3,9.18,6,74.30,Room,Cultural,1.3,4,6.6,Yes
+S0424,27,Female,BBA,2,8.66,7,99.00,Day Scholar,Literature,6.5,9,9.2,No
+S0425,24,Male,MCA,2,7.77,7,60.00,Day Scholar,Sports,3.6,5,4.7,No
+S0426,27,Female,MCA,2,5.81,5,67.50,Room,Tech,6.9,3,3.8,No
+S0427,19,Female,BA,2,5.76,7,96.30,Hostel,None,7.9,1,5.5,Yes
+S0428,27,Male,BTech,4,4.31,8,71.60,Hostel,Cultural,0.7,7,4.7,Yes
+S0429,26,Female,BCA,3,8.93,5,72.10,Room,Tech,4.4,6,7.0,No
+S0430,24,Male,MTech,1,7.02,3,76.10,Room,Tech,8.0,6,8.3,No
+S0431,26,Male,MTech,2,4.78,6,67.50,Room,Tech,3.4,7,9.7,Yes
+S0432,27,Female,MTech,1,5.99,7,97.60,Day Scholar,Cultural,5.1,3,8.0,No
+S0433,26,Male,BTech,2,8.76,2,89.30,Room,Sports,4.6,4,9.0,No
+S0434,17,Female,BCA,2,9.86,4,51.80,Day Scholar,None,6.1,4,6.1,Yes
+S0435,26,Male,MBA,1,6.36,9,74.70,Room,Sports,4.4,5,4.0,No
+S0436,23,Male,BTech,4,8.86,8,87.00,Room,Literature,4.8,4,9.8,Yes
+S0437,25,Male,BCA,3,4.71,10,59.60,Hostel,Cultural,4.8,8,5.1,Yes
+S0438,20,Female,BCA,3,4.53,3,53.70,Day Scholar,Sports,8.1,10,4.2,No
+S0439,24,Male,BBA,1,5.37,3,76.90,Room,None,5.2,8,4.9,No
+S0440,21,Female,BCA,2,8.10,9,57.80,Day Scholar,None,4.6,8,6.9,No
+S0441,21,Female,MCA,1,7.53,6,74.20,Room,Literature,3.9,8,7.0,No
+S0442,17,Male,BCA,2,7.97,7,91.10,Hostel,Cultural,0.1,5,7.7,No
+S0443,26,Female,BA,2,6.01,5,67.70,Day Scholar,Cultural,5.1,5,8.9,No
+S0444,27,Female,BA,3,4.49,3,77.50,Day Scholar,Sports,8.9,2,9.1,Yes
+S0445,24,Female,BBA,2,9.93,4,50.90,Day Scholar,None,4.1,6,3.8,No
+S0446,18,Male,BCom,1,8.53,10,83.60,Day Scholar,Literature,7.7,9,6.4,Yes
+S0447,23,Male,MCA,1,9.21,6,74.50,Hostel,Tech,5.7,8,4.2,Yes
+S0448,26,Female,BCom,3,9.22,4,99.20,Hostel,Cultural,2.1,1,8.9,Yes
+S0449,17,Male,BBA,2,4.62,4,60.70,Hostel,None,8.2,8,5.7,Yes
+S0450,19,Female,BBA,3,4.52,3,87.70,Day Scholar,Literature,3.3,9,5.5,Yes
+S0451,19,Female,BSc CS,1,8.29,6,81.80,Room,Sports,8.9,1,5.3,Yes
+S0452,20,Male,BA,3,7.80,4,65.60,Day Scholar,Cultural,8.0,8,9.5,Yes
+S0453,26,Male,MCA,2,5.35,5,88.60,Room,Cultural,4.7,2,9.0,Yes
+S0454,17,Female,MBA,2,7.40,8,83.50,Day Scholar,Cultural,7.4,4,5.8,Yes
+S0455,23,Female,MBA,1,9.14,7,63.40,Day Scholar,Cultural,3.0,8,10.0,Yes
+S0456,20,Female,BA,3,7.12,7,51.80,Day Scholar,Sports,5.4,3,7.2,No
+S0457,21,Male,MTech,1,9.95,6,89.60,Hostel,Cultural,4.9,3,8.6,Yes
+S0458,25,Male,BTech,1,5.13,7,80.30,Hostel,Literature,2.0,1,5.3,No
+S0459,23,Male,BBA,2,5.05,9,81.00,Day Scholar,Tech,5.8,2,9.9,Yes
+S0460,20,Female,MCA,1,4.08,3,58.70,Day Scholar,Tech,8.1,3,5.3,No
+S0461,24,Male,BCA,2,4.31,9,67.90,Day Scholar,Sports,1.4,4,4.3,Yes
+S0462,24,Female,BTech,3,8.02,7,80.70,Hostel,Sports,6.4,2,6.8,No
+S0463,26,Male,BSc CS,1,9.20,2,61.20,Day Scholar,None,0.7,2,5.7,Yes
+S0464,20,Female,BSc CS,2,8.10,8,98.20,Hostel,None,7.7,3,3.8,Yes
+S0466,18,Female,BA,1,5.89,10,67.90,Day Scholar,Literature,3.8,2,9.1,Yes
+S0467,18,Female,BA,1,7.69,3,89.30,Day Scholar,Sports,0.9,8,4.7,Yes
+S0468,23,Male,BA,3,6.55,8,97.00,Room,Tech,6.6,2,9.8,No
+S0469,20,Male,BBA,3,9.91,9,70.20,Day Scholar,Cultural,6.9,9,3.5,No
+S0470,19,Male,BBA,2,8.36,7,74.80,Hostel,Literature,1.2,9,4.4,Yes
+S0471,20,Male,MBA,1,8.57,10,53.70,Day Scholar,None,6.8,3,9.4,No
+S0472,17,Female,MBA,2,6.98,5,82.20,Hostel,None,7.5,8,5.6,No
+S0473,25,Female,BBA,2,8.86,2,93.10,Hostel,Sports,1.0,3,4.7,No
+S0474,19,Female,MTech,1,7.42,6,92.40,Day Scholar,Literature,1.4,6,7.6,Yes
+S0475,17,Female,BA,3,7.84,2,87.40,Day Scholar,None,8.9,10,8.9,No
+S0476,23,Female,MBA,1,5.64,3,70.30,Day Scholar,Tech,2.8,10,4.3,Yes
+S0477,25,Male,BSc CS,1,8.43,9,50.80,Hostel,Sports,5.8,9,3.7,No
+S0478,24,Male,BCA,1,8.44,7,59.60,Day Scholar,Sports,8.8,6,9.0,No
+S0479,23,Male,BCom,2,8.76,2,64.90,Room,Tech,6.0,9,9.7,Yes
+S0480,18,Male,BCom,3,6.03,9,60.60,Room,Sports,2.3,8,3.7,Yes
+S0481,21,Male,BTech,3,7.53,5,60.60,Room,Sports,2.7,6,9.1,Yes
+S0482,24,Male,MCA,1,6.63,2,77.70,Hostel,Literature,7.7,6,9.9,No
+S0483,22,Male,MBA,2,4.69,5,58.60,Room,Tech,8.4,7,7.1,Yes
+S0484,18,Female,BBA,2,6.90,2,52.40,Day Scholar,Cultural,4.9,2,5.2,Yes
+S0485,23,Male,MCA,1,6.49,8,90.40,Day Scholar,Tech,1.8,2,4.3,Yes
+S0486,17,Female,BTech,1,8.17,6,90.10,Hostel,Tech,3.9,1,9.2,No
+S0487,20,Female,BA,1,6.38,7,95.40,Hostel,Cultural,3.1,8,8.4,No
+S0488,23,Female,MCA,1,6.10,6,99.80,Day Scholar,Cultural,3.1,7,9.6,Yes
+S0489,21,Male,BCom,1,8.74,6,83.90,Day Scholar,Literature,4.4,6,7.0,Yes
+S0490,19,Male,BA,2,6.06,3,85.70,Hostel,Sports,0.8,6,3.8,Yes
+S0491,18,Male,BCA,1,9.20,7,98.50,Day Scholar,Cultural,5.3,2,7.8,No
+S0492,26,Male,MTech,1,5.08,9,87.40,Day Scholar,Literature,4.9,4,7.3,No
+S0493,18,Female,BSc CS,1,4.90,9,84.90,Hostel,Literature,7.6,1,4.5,Yes
+S0494,23,Female,BTech,4,8.11,2,93.90,Day Scholar,None,1.9,8,7.0,Yes
+S0495,25,Female,BSc CS,2,6.10,2,91.60,Day Scholar,Sports,8.6,1,6.8,No
+S0496,22,Male,BA,2,5.55,3,50.50,Room,None,7.2,10,10.0,Yes
+S0497,18,Male,MCA,2,8.83,5,65.50,Day Scholar,Tech,1.0,8,4.5,Yes
+S0498,26,Male,BBA,1,4.69,10,78.20,Day Scholar,None,1.3,8,9.2,No
+S0499,25,Female,BTech,3,6.95,10,68.10,Room,Sports,5.1,10,4.8,No
+S0500,22,Male,MCA,1,6.65,10,50.90,Day Scholar,None,7.8,4,8.5,Yes
+S0501,19,Male,MBA,1,8.36,8,81.60,Hostel,Cultural,8.6,4,6.9,No
+S0502,22,Male,MBA,1,4.72,6,65.40,Day Scholar,Cultural,6.6,2,9.3,Yes
+S0503,25,Female,MBA,2,6.57,7,56.80,Day Scholar,Literature,0.9,8,6.5,No
+S0504,25,Male,MCA,2,4.53,3,76.20,Day Scholar,Literature,1.5,9,6.0,No
+S0505,22,Female,MCA,2,8.03,2,87.40,Room,Cultural,6.6,8,9.4,No
+S0506,26,Female,BTech,2,6.55,4,92.80,Hostel,None,1.7,4,4.2,Yes
+S0507,20,Female,BBA,3,5.71,10,92.40,Day Scholar,Cultural,2.6,10,5.0,Yes
+S0508,23,Female,BCA,2,5.05,6,58.10,Hostel,Sports,5.4,7,8.5,Yes
+S0509,22,Female,MCA,2,8.55,7,98.80,Day Scholar,Tech,3.2,4,4.7,Yes
+S0510,20,Female,BSc CS,1,9.66,2,73.30,Day Scholar,Tech,8.9,6,3.7,Yes
+S0511,24,Male,BCom,1,5.09,4,50.40,Day Scholar,Tech,5.9,5,8.6,No
+S0512,19,Female,BSc CS,2,8.21,5,50.10,Hostel,Cultural,4.8,5,5.1,No
+S0513,27,Male,MTech,2,7.77,2,52.30,Room,None,8.1,8,6.9,Yes
+S0514,26,Female,MCA,1,4.23,4,99.60,Hostel,Tech,2.8,3,8.4,No
+S0515,23,Male,BA,1,6.42,5,56.70,Day Scholar,Sports,5.8,7,9.5,No
+S0516,19,Female,BCom,2,6.73,8,58.90,Day Scholar,None,3.3,5,3.6,No
+S0517,20,Female,MTech,2,6.14,8,81.80,Hostel,Sports,3.3,1,4.7,Yes
+S0518,24,Female,MCA,2,5.26,6,67.60,Day Scholar,Tech,1.4,10,3.8,Yes
+S0519,20,Male,BBA,2,9.31,5,55.40,Hostel,Cultural,4.9,2,8.4,Yes
+S0520,27,Male,BSc CS,1,5.26,8,76.80,Room,Sports,7.3,5,6.4,Yes
+S0521,20,Female,MCA,2,5.64,3,71.50,Room,Tech,6.7,4,4.3,No
+S0522,17,Female,MTech,1,9.30,7,57.70,Room,Cultural,5.6,4,7.8,Yes
+S0523,26,Female,BA,1,9.55,3,77.10,Room,Cultural,8.5,1,8.9,Yes
+S0524,21,Female,BBA,3,5.36,2,86.90,Room,None,0.6,6,8.2,No
+S0525,25,Female,BCom,1,5.38,3,57.20,Hostel,Cultural,2.5,6,9.4,Yes
+S0526,17,Male,MTech,1,4.36,10,74.60,Day Scholar,Cultural,5.4,2,9.8,Yes
+S0527,27,Male,BBA,1,7.96,10,96.30,Hostel,Sports,1.9,6,8.6,No
+S0528,18,Male,BCom,3,6.44,2,95.80,Day Scholar,Cultural,3.9,4,9.0,No
+S0529,21,Female,BTech,2,7.93,9,63.70,Room,Sports,2.1,9,5.5,Yes
+S0530,19,Male,MCA,1,5.38,9,59.80,Hostel,None,8.0,1,8.6,Yes
+S0531,19,Male,BSc CS,2,8.81,7,91.90,Room,Sports,5.5,10,7.3,No
+S0532,23,Male,BBA,2,8.70,7,57.00,Hostel,None,2.3,8,9.1,Yes
+S0533,19,Male,BTech,3,5.73,9,78.80,Hostel,None,4.2,2,5.0,No
+S0534,21,Male,BTech,4,4.98,3,88.00,Hostel,None,2.0,9,4.1,No
+S0535,23,Female,BSc CS,1,6.32,2,66.30,Hostel,None,6.9,1,7.1,No
+S0536,17,Male,BCom,1,6.09,2,79.90,Room,Tech,3.5,4,4.1,Yes
+S0537,20,Female,MTech,2,9.99,10,88.10,Room,Sports,1.6,10,8.9,No
+S0538,25,Male,BCom,2,7.31,7,90.60,Day Scholar,Tech,2.3,1,8.8,No
+S0539,20,Female,MCA,1,9.11,4,74.70,Hostel,Cultural,5.7,8,8.2,No
+S0540,20,Female,BCA,2,9.41,7,72.50,Room,Tech,0.5,6,5.8,Yes
+S0541,24,Female,BTech,4,4.78,4,85.20,Day Scholar,None,0.6,4,6.1,Yes
+S0542,24,Male,BTech,3,4.86,10,72.70,Room,Literature,4.8,2,8.4,No
+S0543,20,Female,BCom,3,6.84,6,92.00,Hostel,None,5.3,5,9.1,Yes
+S0544,25,Female,BSc CS,2,7.28,6,98.70,Room,None,5.5,4,4.7,Yes
+S0545,23,Male,BA,1,6.97,4,89.40,Day Scholar,Sports,4.0,7,8.7,Yes
+S0546,22,Female,BSc CS,3,6.39,7,69.00,Hostel,Cultural,8.2,10,9.7,No
+S0547,24,Female,BCA,1,4.08,8,84.10,Day Scholar,Tech,6.3,5,3.9,Yes
+S0548,27,Female,MCA,1,9.15,5,81.50,Hostel,Cultural,5.8,9,8.7,No
+S0549,26,Male,BBA,3,7.63,4,87.80,Room,Tech,0.3,8,7.0,Yes
+S0550,20,Male,BCA,1,5.73,4,69.60,Room,Literature,3.5,2,6.7,Yes
+S0551,26,Female,BCA,1,7.55,2,73.70,Hostel,Cultural,2.1,2,3.5,No
+S0552,24,Female,MTech,2,5.01,3,77.10,Day Scholar,Literature,4.5,10,8.5,No
+S0553,23,Female,MTech,2,9.66,7,78.00,Day Scholar,Tech,0.5,9,5.8,Yes
+S0554,17,Female,BSc CS,1,8.14,4,94.30,Hostel,Sports,5.8,8,9.1,Yes
+S0555,26,Male,BCA,3,9.24,7,83.10,Room,None,1.5,5,7.0,No
+S0556,23,Male,BA,2,5.10,6,92.00,Room,Cultural,2.2,6,4.1,Yes
+S0557,18,Female,MTech,1,6.23,10,64.40,Hostel,Tech,4.2,7,6.7,No
+S0558,26,Male,BA,2,7.75,8,88.60,Hostel,Tech,4.2,2,8.6,No
+S0559,22,Male,MBA,1,5.33,6,98.10,Day Scholar,None,5.2,5,4.7,Yes
+S0560,19,Male,MBA,1,4.22,9,89.60,Day Scholar,Literature,5.2,4,9.8,No
+S0561,26,Female,BCom,2,5.11,8,65.00,Room,Sports,8.4,7,9.9,Yes
+S0562,23,Male,MTech,1,5.20,6,55.30,Hostel,Literature,0.3,7,4.9,Yes
+S0563,20,Male,BCom,1,4.76,9,80.70,Hostel,Sports,1.4,10,5.4,Yes
+S0564,24,Female,MTech,1,6.67,8,63.60,Day Scholar,Sports,1.1,2,8.5,No
+S0566,17,Female,BA,2,4.64,4,87.40,Hostel,None,4.8,4,8.6,Yes
+S0567,24,Male,BCom,1,4.99,5,82.90,Day Scholar,Sports,5.0,3,7.7,Yes
+S0568,19,Male,MTech,2,4.35,10,68.70,Day Scholar,Literature,2.0,3,8.4,No
+S0569,26,Female,BCom,2,6.79,10,73.00,Hostel,Sports,1.8,1,4.2,Yes
+S0570,17,Female,MTech,1,9.99,9,75.50,Hostel,Cultural,7.1,3,7.8,Yes
+S0571,24,Female,MCA,1,8.43,4,90.10,Day Scholar,Tech,0.9,5,7.6,No
+S0572,26,Male,BBA,3,8.14,4,94.00,Room,Tech,7.7,10,3.5,No
+S0573,23,Female,BA,2,5.55,9,85.50,Day Scholar,Sports,4.8,10,6.9,Yes
+S0574,17,Male,BCom,2,5.56,6,75.80,Hostel,Cultural,7.0,3,9.6,Yes
+S0575,23,Male,MCA,1,9.21,10,52.80,Day Scholar,Tech,7.1,7,9.1,No
+S0576,18,Male,MTech,2,6.46,2,54.10,Room,None,8.0,6,5.3,No
+S0577,19,Male,MBA,1,7.18,4,82.10,Room,Cultural,5.5,9,4.2,No
+S0578,25,Male,BCom,2,9.66,3,75.20,Day Scholar,Tech,6.4,5,6.6,No
+S0579,22,Female,BCom,1,5.26,4,93.50,Room,Tech,1.2,7,4.2,Yes
+S0580,26,Female,MTech,2,8.41,2,69.00,Hostel,Sports,7.4,6,3.8,Yes
+S0581,17,Male,BCom,3,5.72,5,71.70,Hostel,None,2.6,5,9.5,No
+S0582,23,Male,MTech,1,6.20,8,65.00,Room,Sports,0.2,7,4.1,No
+S0583,27,Male,MTech,2,7.17,6,82.00,Room,None,8.3,8,9.5,No
+S0584,24,Female,BTech,3,9.85,8,51.60,Room,Cultural,2.8,8,3.7,No
+S0585,26,Female,BCA,2,4.30,10,61.80,Hostel,Tech,7.7,8,4.5,Yes
+S0586,24,Male,MBA,1,8.42,4,67.10,Room,Tech,8.6,1,6.7,No
+S0587,19,Male,BA,3,9.76,10,87.70,Room,Sports,5.3,6,4.2,No
+S0588,20,Female,BTech,2,8.74,7,63.90,Day Scholar,Literature,8.3,5,8.4,Yes
+S0589,21,Male,BCA,1,5.31,4,82.60,Hostel,Literature,4.3,8,5.6,No
+S0590,27,Male,BSc CS,2,9.04,10,96.60,Room,None,1.1,6,8.1,No
+S0591,20,Female,BCA,1,7.37,4,83.10,Room,Literature,8.8,9,6.8,Yes
+S0592,24,Male,BCom,3,5.56,6,64.80,Hostel,None,8.3,10,5.5,No
+S0593,18,Female,BCom,3,7.70,6,56.80,Room,Sports,7.0,3,3.6,Yes
+S0594,25,Male,MCA,2,9.28,5,82.50,Day Scholar,Literature,4.1,4,4.6,Yes
+S0595,24,Female,BCom,3,7.30,7,78.30,Hostel,Sports,4.2,5,3.8,No
+S0596,27,Male,MTech,1,4.67,3,83.60,Day Scholar,None,0.8,9,9.4,No
+S0597,26,Female,BBA,1,8.13,3,58.30,Room,Literature,2.4,5,4.0,No
+S0598,18,Male,BBA,2,8.99,10,61.80,Day Scholar,Cultural,7.8,3,7.6,Yes
+S0599,22,Female,BSc CS,2,7.43,8,87.50,Hostel,Sports,3.2,5,7.1,Yes
+S0600,17,Male,BTech,2,5.27,10,95.40,Room,None,5.8,8,9.0,Yes
+S0601,17,Female,BSc CS,2,7.01,2,50.10,Hostel,Sports,6.3,2,5.1,No
+S0602,20,Male,BTech,1,9.87,3,51.20,Hostel,Literature,8.3,8,8.3,No
+S0603,19,Male,BSc CS,3,9.09,10,67.30,Room,Sports,6.0,6,4.1,No
+S0604,18,Female,MTech,1,8.39,10,88.70,Hostel,Literature,8.0,6,8.0,No
+S0605,27,Female,MTech,1,9.77,2,52.40,Day Scholar,None,6.5,7,7.5,Yes
+S0607,18,Male,MCA,2,6.14,5,68.80,Hostel,Tech,7.3,1,9.8,Yes
+S0608,21,Female,BBA,3,8.40,5,78.70,Hostel,Literature,6.7,7,6.5,Yes
+S0609,20,Male,BA,1,9.22,6,55.90,Room,Cultural,2.8,1,6.3,No
+S0610,23,Male,BSc CS,3,4.31,5,78.10,Room,Tech,6.6,3,8.6,No
+S0611,24,Male,BCom,2,4.93,10,94.50,Hostel,Literature,1.5,6,5.1,No
+S0612,21,Female,BA,2,7.19,5,89.70,Hostel,Literature,3.5,10,8.1,Yes
+S0613,21,Male,BA,2,5.11,3,88.30,Hostel,Tech,2.5,9,4.2,Yes
+S0614,19,Male,BCA,3,8.76,6,63.60,Day Scholar,None,7.7,7,5.5,No
+S0615,24,Female,BTech,1,8.10,7,56.70,Day Scholar,Literature,0.4,4,7.6,Yes
+S0616,24,Female,BTech,4,4.82,2,55.20,Hostel,None,1.0,8,6.4,Yes
+S0617,17,Male,MBA,1,5.22,9,58.50,Room,Cultural,7.2,3,5.9,Yes
+S0618,19,Female,MTech,1,4.57,7,53.60,Hostel,Sports,4.1,9,8.2,No
+S0619,17,Male,BCom,3,4.20,6,72.90,Room,Literature,5.4,8,5.7,No
+S0620,26,Female,MBA,1,8.34,8,65.40,Hostel,Tech,0.4,8,8.9,No
+S0621,24,Female,MCA,1,4.74,4,83.70,Room,Tech,6.7,4,6.5,Yes
+S0622,22,Female,BCom,1,6.22,5,83.90,Day Scholar,Cultural,0.2,9,9.4,Yes
+S0623,25,Female,BCA,3,8.03,7,85.50,Day Scholar,Tech,2.7,7,5.1,Yes
+S0624,22,Male,MBA,2,7.58,7,70.30,Room,None,6.7,9,6.2,Yes
+S0625,18,Female,MCA,2,5.84,6,88.90,Room,Cultural,4.4,1,8.9,No
+S0626,22,Male,MBA,2,7.99,10,72.50,Room,Literature,8.5,5,8.8,Yes
+S0627,26,Female,BSc CS,3,7.99,5,78.90,Hostel,Cultural,1.0,3,4.4,Yes
+S0628,21,Female,MTech,1,5.43,2,75.00,Day Scholar,Tech,6.3,4,6.5,No
+S0629,26,Male,MCA,1,6.86,5,72.70,Day Scholar,Tech,5.9,1,8.9,No
+S0630,21,Female,BCA,1,9.60,3,53.50,Hostel,Cultural,1.9,4,8.6,Yes
+S0631,23,Female,BCom,3,7.30,7,96.40,Room,Tech,5.5,6,6.2,No
+S0632,20,Female,BCom,1,8.07,3,57.70,Day Scholar,Tech,8.5,10,4.7,Yes
+S0633,25,Female,MCA,2,7.52,10,65.90,Hostel,Tech,0.9,4,5.6,No
+S0634,27,Male,BBA,3,6.85,2,90.70,Day Scholar,Sports,7.4,2,5.7,Yes
+S0635,23,Female,BSc CS,1,9.07,2,59.10,Room,Tech,1.1,2,3.9,No
+S0636,21,Female,BCom,2,9.92,3,93.40,Day Scholar,None,6.0,1,4.9,Yes
+S0637,24,Female,BTech,3,6.73,2,74.50,Hostel,Tech,2.3,4,4.5,Yes
+S0638,21,Female,BCA,3,6.36,6,62.80,Hostel,None,4.0,8,8.8,No
+S0639,19,Female,BCA,3,5.06,3,73.00,Room,Tech,2.5,10,4.7,No
+S0640,21,Female,MBA,2,4.36,5,92.10,Day Scholar,Tech,8.0,5,8.7,Yes
+S0641,21,Male,BBA,3,6.22,3,65.30,Room,Tech,6.1,3,8.6,Yes
+S0642,24,Male,MCA,2,5.70,2,85.30,Hostel,Literature,1.6,9,6.5,Yes
+S0643,27,Male,BCom,3,10.00,4,57.70,Hostel,Tech,2.6,8,9.6,No
+S0644,19,Male,BCom,2,6.34,2,77.00,Day Scholar,None,0.7,10,5.0,No
+S0645,17,Female,BCom,2,7.35,3,69.90,Room,Cultural,4.9,1,6.0,Yes
+S0646,26,Female,MCA,1,8.34,2,82.20,Hostel,Literature,1.8,3,5.8,Yes
+S0647,27,Male,MCA,1,8.53,7,70.60,Room,Sports,0.2,9,7.7,No
+S0648,26,Male,BSc CS,3,4.71,10,74.50,Room,Literature,7.5,7,9.1,Yes
+S0649,21,Male,BA,3,8.69,7,88.10,Room,Tech,4.9,2,6.4,No
+S0650,20,Female,MCA,2,7.86,5,84.00,Day Scholar,Sports,2.8,3,6.4,No
+S0651,26,Female,MTech,2,4.89,4,77.40,Hostel,None,3.7,1,4.8,Yes
+S0652,24,Female,BSc CS,1,8.46,2,98.80,Room,None,0.5,8,9.7,Yes
+S0653,27,Male,MBA,2,8.24,5,64.10,Hostel,Tech,0.6,5,8.1,No
+S0654,25,Female,MCA,2,5.72,10,88.40,Day Scholar,Literature,4.0,2,10.0,Yes
+S0655,26,Male,MCA,1,5.11,10,82.50,Hostel,Literature,3.9,10,9.4,No
+S0656,17,Male,MCA,1,7.22,7,74.30,Room,Cultural,7.2,1,6.7,No
+S0657,27,Female,BA,1,5.25,9,52.20,Room,Tech,0.1,2,4.2,No
+S0658,20,Male,BCom,1,6.30,3,70.80,Day Scholar,Literature,3.5,10,8.2,No
+S0659,26,Male,BTech,4,9.40,9,89.70,Day Scholar,Literature,6.3,8,5.4,No
+S0660,25,Male,BCom,3,8.21,4,80.50,Room,Sports,2.7,5,9.1,No
+S0661,23,Male,BBA,1,6.38,3,68.40,Day Scholar,None,6.6,5,4.7,Yes
+S0662,17,Female,BSc CS,3,9.39,9,70.00,Room,None,7.9,4,4.5,Yes
+S0663,20,Male,BTech,2,9.13,6,79.30,Room,Tech,4.5,1,8.0,Yes
+S0664,17,Male,BBA,3,5.83,7,50.50,Hostel,Sports,3.6,3,8.4,Yes
+S0665,22,Female,BCA,3,4.42,3,90.70,Day Scholar,Tech,5.0,4,8.3,Yes
+S0666,21,Female,BCA,1,5.31,8,62.10,Day Scholar,Literature,6.7,4,4.5,No
+S0667,27,Female,BCom,1,7.78,2,88.40,Room,Cultural,6.2,10,9.9,No
+S0668,27,Male,BSc CS,3,7.86,5,77.30,Room,None,1.0,10,4.4,Yes
+S0669,24,Male,MBA,2,5.63,10,92.60,Hostel,Cultural,7.0,5,7.7,No
+S0670,20,Female,BBA,2,5.35,5,62.70,Hostel,Tech,8.6,4,6.0,No
+S0671,17,Female,BCA,3,8.09,6,53.00,Room,Sports,1.5,6,8.3,Yes
+S0672,17,Female,BCom,2,7.53,3,69.60,Hostel,Literature,4.5,3,7.3,No
+S0673,21,Female,BBA,3,4.00,5,86.10,Day Scholar,Sports,1.6,9,5.1,Yes
+S0674,25,Female,BA,2,9.52,7,89.40,Hostel,None,0.2,2,6.6,Yes
+S0675,26,Male,BA,1,9.84,2,67.20,Day Scholar,Tech,6.9,7,8.4,No
+S0676,27,Female,BTech,4,6.09,5,95.00,Room,Tech,0.7,1,4.0,No
+S0677,21,Female,BA,2,8.90,7,72.90,Room,Literature,6.5,8,5.2,Yes
+S0678,24,Male,BCA,1,8.65,4,59.50,Day Scholar,Tech,8.0,5,4.0,Yes
+S0679,26,Male,MCA,1,8.64,5,58.80,Room,Cultural,0.5,1,5.1,No
+S0680,20,Male,MTech,1,9.04,7,52.20,Day Scholar,Cultural,8.5,1,9.7,Yes
+S0681,26,Male,BCom,3,9.94,7,64.20,Day Scholar,Literature,6.1,4,3.6,No
+S0682,25,Female,MTech,2,9.78,2,79.80,Room,None,8.8,9,7.3,No
+S0683,23,Female,BTech,3,9.80,4,86.50,Hostel,Sports,0.1,2,7.0,Yes
+S0684,18,Female,MCA,2,7.72,7,97.30,Day Scholar,Literature,6.2,1,9.9,Yes
+S0685,18,Female,MCA,2,6.20,6,59.80,Hostel,Tech,7.5,6,9.5,No
+S0686,23,Male,MBA,2,4.72,3,77.40,Day Scholar,Sports,4.1,1,4.7,No
+S0687,24,Male,BBA,2,4.84,3,87.40,Room,None,3.5,6,4.0,Yes
+S0688,18,Female,BSc CS,3,5.42,8,52.50,Room,Literature,1.2,2,5.3,No
+S0689,24,Male,BCom,3,7.18,8,99.60,Day Scholar,Cultural,5.6,2,8.4,Yes
+S0690,22,Female,BA,2,7.52,5,60.20,Room,Tech,3.2,7,8.8,Yes
+S0691,19,Male,BA,3,6.62,6,61.30,Room,Cultural,0.2,10,5.5,Yes
+S0692,18,Male,BBA,1,9.03,5,69.10,Day Scholar,Tech,8.6,3,4.2,No
+S0693,24,Male,BTech,3,9.62,5,98.20,Room,None,6.3,8,5.6,Yes
+S0694,17,Female,MTech,2,7.56,3,83.80,Day Scholar,None,8.0,5,4.8,Yes
+S0695,23,Male,BSc CS,3,5.19,4,69.10,Room,Tech,3.6,8,5.3,Yes
+S0696,27,Male,BTech,2,7.73,6,69.20,Hostel,Tech,8.5,2,3.7,No
+S0697,27,Male,BSc CS,2,5.46,2,91.90,Day Scholar,Tech,4.4,9,5.3,No
+S0698,19,Female,BCA,3,9.37,3,66.30,Hostel,Tech,2.4,1,7.6,No
+S0699,18,Male,BBA,3,8.16,3,55.70,Hostel,Tech,0.3,8,8.9,Yes
+S0700,24,Male,MBA,2,5.28,3,78.00,Room,Literature,8.2,2,9.6,No
+S0701,23,Male,MBA,1,4.80,4,54.40,Room,Tech,6.8,5,6.6,Yes
+S0702,23,Female,BSc CS,1,5.44,2,59.40,Room,Tech,1.3,3,9.4,No
+S0703,25,Male,BTech,1,7.43,7,86.80,Room,Sports,1.1,3,7.6,Yes
+S0704,20,Female,BCA,1,9.62,8,88.30,Room,None,8.2,1,3.6,Yes
+S0705,23,Male,MBA,1,9.47,3,97.30,Day Scholar,None,5.6,6,9.8,Yes
+S0707,21,Male,BCA,2,4.86,8,98.90,Day Scholar,Tech,3.6,6,3.9,Yes
+S0708,20,Female,BCom,2,4.31,4,86.30,Hostel,Sports,1.4,4,3.6,Yes
+S0709,20,Male,MTech,1,9.01,7,66.90,Room,Sports,5.7,2,5.1,No
+S0710,24,Female,BCA,2,7.77,6,68.90,Day Scholar,Cultural,1.3,7,9.9,No
+S0711,26,Male,BTech,4,6.90,4,64.10,Room,Sports,2.1,3,8.6,No
+S0712,24,Male,BTech,2,5.88,7,70.50,Hostel,Literature,4.8,3,6.4,Yes
+S0713,21,Male,MCA,2,5.73,5,50.80,Room,Cultural,6.9,1,7.1,No
+S0714,26,Female,BCA,2,8.45,6,70.90,Hostel,Tech,1.3,1,8.9,Yes
+S0715,17,Female,MCA,2,5.52,5,54.60,Room,Cultural,4.8,9,6.3,No
+S0716,23,Female,BCA,3,8.82,8,68.00,Hostel,Cultural,5.1,10,8.4,No
+S0717,26,Female,BSc CS,3,8.15,7,65.50,Hostel,Literature,6.0,8,7.4,No
+S0718,25,Female,BA,3,9.40,7,64.70,Day Scholar,None,4.5,7,7.4,Yes
+S0719,18,Male,BBA,3,6.29,4,91.30,Room,Sports,7.3,3,5.0,Yes
+S0720,26,Male,BSc CS,2,7.13,8,74.90,Room,None,3.5,1,6.6,No
+S0721,26,Male,BCom,3,8.03,3,69.40,Day Scholar,Tech,4.7,8,8.4,No
+S0722,27,Male,BCom,3,5.97,9,82.30,Hostel,Literature,3.8,4,8.1,No
+S0723,20,Male,BA,3,6.80,6,79.80,Day Scholar,Sports,4.0,8,7.1,No
+S0724,26,Male,BSc CS,2,5.41,5,91.40,Room,Tech,1.9,1,3.9,No
+S0725,17,Male,BBA,2,6.30,10,90.20,Hostel,Tech,1.7,4,3.7,Yes
+S0726,19,Female,BSc CS,1,9.86,2,72.60,Day Scholar,Sports,3.8,5,4.3,No
+S0727,27,Male,BBA,3,9.85,4,81.10,Day Scholar,Cultural,4.6,1,8.9,Yes
+S0728,19,Male,MBA,1,6.82,2,60.80,Room,None,7.0,6,5.8,No
+S0729,21,Male,BBA,2,5.94,8,89.40,Day Scholar,Sports,0.6,4,8.9,Yes
+S0730,19,Male,BCom,3,4.42,4,67.10,Day Scholar,Sports,2.2,7,7.8,No
+S0731,25,Female,BBA,3,5.50,10,98.30,Hostel,Literature,1.5,8,8.6,No
+S0732,19,Male,MTech,2,9.52,7,59.70,Room,Cultural,6.9,7,7.8,No
+S0733,22,Female,BSc CS,2,9.88,4,85.70,Hostel,Tech,4.7,10,5.0,Yes
+S0734,20,Female,BCom,3,9.68,6,58.50,Hostel,Tech,8.2,10,5.0,Yes
+S0735,22,Male,BTech,3,8.04,8,74.70,Hostel,Cultural,0.8,4,7.2,No
+S0736,19,Male,BCA,1,8.21,6,73.10,Hostel,None,7.8,2,6.1,No
+S0737,22,Female,BCA,3,9.91,5,56.30,Room,Cultural,7.9,5,5.9,No
+S0738,23,Male,BCom,1,5.64,9,88.70,Hostel,Tech,1.2,3,3.6,Yes
+S0739,26,Male,BCA,1,8.49,10,69.80,Day Scholar,Literature,1.6,4,5.4,Yes
+S0740,24,Male,BCA,3,4.06,7,67.80,Room,Sports,0.8,8,4.8,No
+S0741,22,Male,MBA,2,8.01,6,86.00,Hostel,Tech,4.0,6,8.3,Yes
+S0742,20,Male,MBA,1,5.24,5,72.10,Room,Tech,3.2,1,5.3,Yes
+S0743,23,Female,BTech,1,5.11,8,88.30,Hostel,None,7.9,8,8.8,Yes
+S0744,21,Male,BBA,1,8.04,10,79.80,Hostel,Cultural,3.1,7,7.2,No
+S0745,22,Male,MTech,2,9.24,6,99.30,Day Scholar,Sports,5.9,7,4.0,Yes
+S0746,20,Male,BCom,1,6.91,10,76.60,Hostel,Literature,1.4,1,7.8,No
+S0747,18,Male,MCA,1,4.85,7,61.60,Day Scholar,Literature,6.5,8,8.7,Yes
+S0748,20,Male,BA,3,8.07,9,97.70,Hostel,Cultural,6.0,6,7.0,No
+S0749,22,Male,MTech,1,5.28,3,79.20,Room,None,1.9,7,9.8,No
+S0750,25,Female,MTech,2,8.28,3,60.30,Day Scholar,Cultural,6.1,3,6.0,Yes
+S0751,22,Male,MTech,1,6.43,4,50.70,Day Scholar,None,5.6,2,4.4,Yes
+S0752,21,Male,BCA,3,8.44,4,81.30,Room,None,3.0,10,9.8,Yes
+S0753,21,Male,MBA,2,6.68,2,94.40,Room,Cultural,0.3,1,4.7,No
+S0754,26,Male,BSc CS,2,6.26,3,99.70,Day Scholar,Tech,8.9,4,9.1,No
+S0755,26,Male,BBA,3,6.54,6,65.60,Hostel,None,3.6,7,6.0,No
+S0756,24,Male,MTech,2,7.49,5,59.50,Hostel,Cultural,0.6,6,7.8,No
+S0757,17,Female,BBA,2,6.38,4,56.70,Room,Literature,3.0,9,6.9,Yes
+S0758,24,Female,MCA,2,9.72,7,83.00,Day Scholar,None,4.3,10,5.1,Yes
+S0759,17,Female,MTech,2,8.48,3,83.20,Room,Literature,4.5,5,8.7,No
+S0760,19,Male,BCA,1,8.67,5,60.50,Room,None,3.2,3,6.9,No
+S0761,23,Male,BBA,2,4.35,10,75.60,Room,Sports,7.7,2,5.2,No
+S0762,19,Female,BCA,1,7.42,9,82.50,Day Scholar,Cultural,7.9,9,9.7,Yes
+S0763,19,Male,BBA,3,6.35,2,85.10,Day Scholar,Sports,2.4,5,5.1,No
+S0764,27,Male,MBA,1,5.37,7,65.10,Room,Tech,3.9,10,5.7,Yes
+S0765,23,Male,BTech,1,8.71,4,77.20,Hostel,Tech,5.2,6,5.2,No
+S0766,17,Male,BCom,3,7.46,5,77.80,Day Scholar,None,6.6,7,9.3,Yes
+S0767,25,Female,BSc CS,2,9.57,7,54.60,Day Scholar,Sports,7.9,1,6.0,No
+S0768,19,Female,BA,2,9.37,5,96.20,Day Scholar,Literature,0.3,4,7.6,No
+S0769,26,Male,BSc CS,1,5.77,3,64.40,Day Scholar,Sports,0.3,5,3.6,No
+S0770,20,Male,BTech,1,7.55,10,50.00,Hostel,Literature,4.5,4,9.9,Yes
+S0771,18,Male,BTech,3,8.24,6,63.40,Day Scholar,Literature,7.6,4,7.1,Yes
+S0772,20,Female,BA,3,6.15,3,83.40,Day Scholar,Sports,7.8,10,6.6,No
+S0773,27,Male,BSc CS,3,8.46,4,70.70,Day Scholar,Sports,1.3,4,5.5,Yes
+S0774,24,Female,BSc CS,2,6.97,8,86.10,Day Scholar,Literature,3.9,9,7.0,Yes
+S0775,26,Female,BBA,2,8.23,4,74.30,Day Scholar,Tech,8.0,10,6.9,No
+S0776,27,Male,MBA,1,8.96,8,76.40,Hostel,Tech,4.8,7,5.3,Yes
+S0777,22,Male,BSc CS,2,6.78,7,63.20,Day Scholar,Tech,8.3,9,6.6,No
+S0778,25,Female,BA,3,5.79,5,74.10,Room,None,0.8,3,9.5,No
+S0779,19,Female,BTech,3,4.36,10,55.20,Day Scholar,Tech,6.9,9,5.4,Yes
+S0780,20,Male,BA,1,8.64,8,67.60,Hostel,None,7.4,9,8.6,Yes
+S0781,18,Male,MCA,2,6.30,10,64.50,Hostel,Sports,2.7,9,3.8,No
+S0782,26,Female,MBA,2,8.36,4,63.00,Room,Literature,8.0,2,6.1,No
+S0783,19,Female,BCom,1,6.02,10,55.90,Day Scholar,Literature,8.4,10,4.0,Yes
+S0784,21,Male,BSc CS,2,6.84,3,59.80,Hostel,Literature,6.6,10,7.6,Yes
+S0785,18,Male,MTech,1,7.05,8,86.40,Hostel,Cultural,7.8,5,9.6,Yes
+S0786,25,Female,BCom,3,9.21,9,53.80,Day Scholar,Sports,1.6,6,8.8,No
+S0787,17,Female,MTech,2,5.86,10,55.90,Room,Cultural,6.1,6,5.4,Yes
+S0788,22,Female,BBA,3,9.50,2,56.50,Room,Sports,5.8,5,6.3,Yes
+S0789,17,Male,MCA,2,5.68,5,65.20,Day Scholar,None,7.9,3,8.7,Yes
+S0790,26,Male,BSc CS,3,5.24,8,70.70,Day Scholar,Literature,0.6,1,7.4,Yes
+S0791,17,Female,MBA,1,8.15,7,95.30,Day Scholar,Literature,8.6,9,4.9,Yes
+S0792,17,Male,BCom,1,5.76,9,56.50,Room,None,1.2,3,9.4,Yes
+S0793,25,Female,BSc CS,1,9.14,8,71.10,Hostel,None,6.1,4,8.3,No
+S0794,18,Male,BCA,2,9.64,9,67.10,Room,Sports,1.2,9,7.2,Yes
+S0795,23,Female,MBA,1,7.91,4,74.20,Room,Tech,7.6,6,3.8,No
+S0796,18,Female,MBA,1,5.97,9,90.80,Room,Cultural,3.0,9,4.3,Yes
+S0797,27,Male,MTech,2,8.82,5,90.60,Hostel,None,5.8,3,7.4,No
+S0798,20,Female,BCA,3,8.88,2,63.70,Hostel,Tech,7.5,2,7.5,Yes
+S0799,24,Male,MBA,2,7.72,7,86.50,Hostel,Sports,5.9,8,7.0,Yes
+S0800,18,Male,BSc CS,3,5.43,4,63.60,Day Scholar,Literature,0.1,1,7.9,No
+S0801,21,Male,MTech,2,4.78,10,73.80,Hostel,Literature,5.1,5,9.4,Yes
+S0802,23,Male,MCA,2,9.90,5,53.60,Hostel,Literature,0.1,2,4.7,No
+S0803,18,Male,MTech,2,6.03,10,57.50,Hostel,Cultural,5.0,10,6.2,No
+S0804,25,Male,MCA,2,6.44,6,66.40,Hostel,None,1.5,6,9.2,No
+S0805,24,Male,MTech,1,5.82,9,94.90,Day Scholar,Tech,7.9,1,4.3,Yes
+S0806,24,Male,MCA,1,9.13,10,92.10,Day Scholar,None,3.2,7,7.2,Yes
+S0807,27,Male,MCA,1,9.24,4,83.20,Hostel,Sports,8.7,3,8.9,Yes
+S0808,21,Female,MCA,2,8.25,5,55.30,Hostel,Tech,3.7,3,6.3,No
+S0809,20,Female,MBA,2,8.80,9,63.80,Day Scholar,Cultural,7.8,7,4.2,Yes
+S0810,22,Female,MCA,1,7.77,10,99.00,Hostel,Literature,1.9,5,6.2,No
+S0811,23,Male,MCA,2,6.38,10,50.30,Day Scholar,Sports,2.6,5,7.7,No
+S0812,18,Female,BCA,1,4.05,4,95.20,Day Scholar,Cultural,5.5,3,7.7,No
+S0813,19,Male,BA,1,7.74,7,65.50,Hostel,Tech,8.7,1,4.0,Yes
+S0814,17,Female,MTech,2,7.16,4,93.10,Room,Cultural,8.6,5,8.6,Yes
+S0815,24,Female,BSc CS,3,6.61,9,54.10,Day Scholar,None,5.8,5,5.3,No
+S0816,22,Male,MCA,1,7.30,2,79.90,Room,Sports,2.8,10,9.5,No
+S0817,27,Female,BCA,1,5.57,10,76.80,Hostel,Cultural,5.5,4,9.6,Yes
+S0818,26,Male,MBA,1,5.52,9,61.60,Room,Tech,4.1,4,8.3,Yes
+S0819,25,Female,BCom,2,5.98,3,71.90,Hostel,Sports,4.5,10,6.7,No
+S0820,25,Male,BA,1,6.11,8,95.20,Room,Sports,4.0,6,5.7,No
+S0821,18,Male,MTech,1,5.12,7,64.00,Day Scholar,Tech,4.8,10,5.5,No
+S0822,24,Male,BCA,3,7.09,4,86.00,Room,Literature,4.9,9,5.7,No
+S0823,19,Female,BCA,1,4.21,8,85.00,Room,Tech,2.3,8,9.8,Yes
+S0824,19,Female,BTech,3,8.40,3,69.20,Day Scholar,Tech,7.6,3,8.3,Yes
+S0825,21,Female,BCom,1,9.71,5,86.60,Day Scholar,Sports,1.4,4,7.9,No
+S0826,21,Female,MBA,2,8.21,2,65.80,Room,Literature,3.0,2,5.3,No
+S0827,21,Female,BTech,2,9.07,10,56.20,Day Scholar,Sports,0.9,6,4.4,No
+S0828,22,Male,MTech,2,9.20,9,58.00,Room,Sports,7.9,8,5.3,Yes
+S0829,17,Female,MCA,1,7.61,9,70.10,Day Scholar,None,1.6,9,8.3,Yes
+S0830,20,Male,BSc CS,2,7.06,9,65.80,Hostel,None,1.7,8,9.3,No
+S0831,19,Male,BCA,3,9.94,7,78.10,Room,Sports,3.0,10,9.1,No
+S0832,23,Female,BCom,3,5.01,4,67.00,Room,Sports,7.6,5,9.4,No
+S0833,20,Female,BBA,1,5.09,7,76.50,Day Scholar,Literature,6.2,5,5.5,No
+S0834,24,Male,BBA,3,4.11,7,61.60,Hostel,Cultural,4.9,6,6.5,Yes
+S0835,25,Female,BTech,4,5.71,7,81.10,Day Scholar,Literature,5.6,1,8.2,Yes
+S0836,17,Female,BSc CS,2,4.33,8,54.80,Room,Sports,7.1,9,7.7,Yes
+S0837,24,Male,BA,1,6.79,4,83.20,Day Scholar,None,6.9,1,7.6,Yes
+S0838,25,Male,MCA,1,9.41,7,73.40,Hostel,Literature,4.5,5,3.9,No
+S0839,18,Male,BSc CS,3,4.21,9,58.40,Room,None,2.7,1,9.1,No
+S0840,25,Female,BBA,2,7.92,4,56.50,Hostel,None,2.0,3,6.1,Yes
+S0841,26,Female,BTech,3,9.38,3,51.30,Hostel,Literature,2.9,10,9.9,No
+S0842,24,Male,BTech,3,5.05,5,59.90,Room,Tech,1.4,10,5.7,Yes
+S0843,23,Male,BSc CS,2,7.91,3,57.10,Day Scholar,Literature,6.7,5,9.1,Yes
+S0844,17,Female,BCom,1,7.34,4,50.50,Room,Literature,0.1,8,7.7,Yes
+S0845,21,Female,MTech,1,7.85,6,69.30,Day Scholar,Literature,7.6,5,6.7,No
+S0846,21,Male,BCom,1,9.03,6,81.60,Day Scholar,Literature,3.1,8,5.4,No
+S0847,24,Female,BTech,2,4.47,9,55.40,Day Scholar,None,2.8,7,6.3,No
+S0848,26,Female,BA,2,8.34,4,51.50,Day Scholar,Cultural,2.3,1,8.0,Yes
+S0849,21,Female,MTech,1,6.38,3,70.90,Day Scholar,None,7.5,1,9.7,No
+S0850,18,Female,MCA,1,5.12,4,62.90,Hostel,Cultural,8.2,3,8.6,Yes
+S0851,25,Female,BCom,3,8.43,7,56.90,Room,Sports,7.0,5,9.6,Yes
+S0852,24,Female,MBA,1,4.51,3,57.40,Day Scholar,None,4.7,5,5.4,No
+S0853,23,Male,MTech,2,7.02,8,61.00,Hostel,Sports,8.2,3,6.0,No
+S0854,25,Male,BCom,3,7.27,4,81.60,Day Scholar,Sports,2.6,1,9.0,No
+S0855,21,Male,BA,3,7.19,7,99.00,Day Scholar,None,6.8,4,4.7,No
+S0856,26,Female,BCA,1,5.27,2,51.90,Day Scholar,Tech,2.0,1,6.8,Yes
+S0857,27,Male,BSc CS,3,5.74,4,86.70,Hostel,Literature,5.6,9,5.9,No
+S0858,22,Male,BCom,2,9.52,5,55.00,Room,None,2.7,10,4.7,Yes
+S0859,19,Male,MTech,2,6.51,4,91.30,Room,Cultural,3.4,5,4.8,Yes
+S0860,27,Male,BTech,1,6.22,3,50.50,Room,Tech,8.8,6,8.0,Yes
+S0861,19,Female,MCA,1,4.64,10,86.70,Room,Cultural,4.2,6,7.5,Yes
+S0862,26,Male,BCom,2,5.26,2,73.30,Hostel,Tech,7.2,3,9.5,Yes
+S0863,22,Female,BTech,3,4.50,6,85.50,Room,Literature,5.6,8,8.6,No
+S0864,18,Female,MTech,2,7.45,5,62.50,Hostel,Cultural,5.3,9,6.6,Yes
+S0865,19,Male,BCom,1,8.27,8,65.00,Room,Cultural,0.6,4,4.3,Yes
+S0866,21,Female,MBA,2,8.31,4,99.50,Room,Tech,1.5,6,9.8,Yes
+S0867,27,Female,BBA,1,4.76,7,91.80,Room,Sports,2.2,5,7.4,No
+S0868,18,Female,BTech,2,9.35,5,92.80,Room,None,5.5,2,9.5,No
+S0869,23,Female,BCA,2,4.89,2,69.30,Hostel,Tech,2.8,5,6.3,No
+S0870,23,Female,MBA,1,4.35,2,82.90,Room,Sports,7.7,9,3.7,No
+S0871,19,Female,BSc CS,1,4.48,7,72.50,Hostel,Literature,6.1,10,3.6,Yes
+S0872,23,Male,MCA,1,9.63,10,70.30,Room,Sports,3.6,2,8.6,Yes
+S0873,19,Female,BBA,1,8.88,2,63.30,Day Scholar,Cultural,1.0,4,5.3,No
+S0874,17,Male,BTech,4,8.41,6,64.20,Room,Sports,7.8,2,9.2,No
+S0875,23,Male,MCA,1,4.38,10,69.80,Hostel,Cultural,3.5,10,4.4,Yes
+S0876,20,Male,MBA,1,9.36,3,82.40,Day Scholar,Sports,3.3,3,5.5,Yes
+S0877,26,Male,BA,3,5.01,10,58.00,Day Scholar,Tech,2.4,7,7.5,Yes
+S0878,27,Female,MTech,1,4.95,3,76.10,Room,Tech,4.3,1,8.9,No
+S0879,18,Female,BSc CS,2,6.06,7,73.30,Hostel,None,6.1,1,7.2,No
+S0880,17,Female,BCA,3,7.80,10,54.20,Day Scholar,Cultural,5.8,3,6.8,No
+S0881,22,Male,BCom,2,6.91,9,61.60,Room,Tech,3.7,6,4.9,No
+S0882,24,Female,MCA,1,8.38,2,67.80,Room,None,2.1,4,7.7,No
+S0883,24,Female,BCom,1,7.13,9,84.70,Day Scholar,Sports,6.2,10,4.2,No
+S0884,22,Male,MBA,2,7.77,4,53.10,Day Scholar,Tech,1.2,9,9.8,No
+S0885,24,Female,BCom,1,6.54,8,54.00,Room,Literature,3.5,2,8.0,No
+S0886,26,Female,BCA,3,7.69,6,88.10,Day Scholar,Sports,4.0,4,6.7,No
+S0887,24,Male,MCA,1,6.38,4,94.20,Day Scholar,None,2.0,5,6.2,Yes
+S0888,23,Male,BBA,1,5.76,10,92.00,Hostel,None,4.1,10,8.0,No
+S0889,17,Female,BA,3,4.55,2,62.40,Room,Literature,6.7,7,5.8,Yes
+S0890,22,Male,MTech,1,6.21,5,91.30,Hostel,Tech,4.6,8,5.0,Yes
+S0891,19,Male,BTech,1,4.28,2,57.10,Day Scholar,Cultural,0.5,9,6.2,Yes
+S0892,18,Female,BBA,1,9.85,4,52.10,Day Scholar,Cultural,1.9,1,8.1,Yes
+S0893,18,Male,BTech,1,9.80,3,53.40,Room,None,5.7,2,6.9,No
+S0894,23,Male,BA,2,4.19,6,66.10,Room,Sports,5.0,8,4.2,No
+S0895,24,Female,BCA,1,7.43,7,50.90,Room,Tech,7.1,10,5.5,Yes
+S0896,23,Female,BCom,1,9.26,3,97.50,Day Scholar,None,1.3,4,9.9,No
+S0897,17,Male,BBA,1,7.97,2,68.50,Hostel,None,4.6,4,6.5,Yes
+S0898,22,Female,BBA,2,4.70,8,91.20,Room,Cultural,4.3,4,8.9,Yes
+S0899,23,Male,BA,1,8.56,3,87.70,Day Scholar,Cultural,4.4,9,9.2,No
+S0900,26,Male,MCA,2,5.65,6,59.80,Room,Literature,8.9,7,8.5,Yes
