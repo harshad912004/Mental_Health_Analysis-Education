@@ -1,99 +1,196 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Mental Health Analysis - Education</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet"/>
   <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
     body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      padding: 40px;
-      background-color: #eef7f5;
-      color: #2c3e50;
+      background-color: #f4f7fa;
+      color: #333;
+      line-height: 1.6;
+      padding: 30px;
     }
+
+    .container {
+      max-width: 1200px;
+      margin: auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
     h1 {
-      color: #00695c;
+      color: #2E3B4E;
+      font-size: 32px;
+      margin-bottom: 10px;
     }
-    a {
-      color: #00796b;
+
+    h2 {
+      color: #444;
+      font-size: 22px;
+      margin-top: 30px;
+    }
+
+    p {
+      margin-bottom: 15px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #2E3B4E;
+      color: white;
       text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .preview {
+      border-radius: 6px;
       margin-top: 20px;
     }
-    img {
-      border: 2px solid #ccc;
-      border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+    .btn:hover {
+      background-color: #1e2a38;
     }
-    footer {
-      margin-top: 50px;
-      font-size: 14px;
-      color: #555;
+
+    ul {
+      margin: 10px 0 20px 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .kpi {
+      background-color: #f0f4f7;
+      padding: 10px 20px;
+      border-left: 5px solid #2E3B4E;
+      margin-bottom: 15px;
+      border-radius: 6px;
+    }
+
+    .slide {
+        width: 100%;
+        flex-shrink: 0;
+        padding: 10px;
+        box-sizing: border-box;
+        background: #fff;
+    }
+
+    .slide img {
+        width: 100%;
+        border-radius: 10px;
+        border: 2px solid #333;
+    }
+
+    #backToTopBtn {
+        display: none;
+        position: fixed;
+        bottom: 25px;
+        right: 25px;
+        z-index: 99;
+        border: none;
+        background-color: white;
+        color: white;
+        cursor: pointer;
+        padding: 12px 16px;
+        font-size: 25px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    #backToTopBtn:hover {
+        background-color: #1e2a38;
+    }
+
+    @media screen and (max-width: 768px) {
+        .slide img {
+            height: auto;
+            width: 100%;
+        }
+        .btn {
+            font-size: 14px;
+            padding: 10px 16px;
+        }
     }
   </style>
 </head>
 <body>
-  <h1>🧠 Mental Health Analysis - Education</h1>
-  <p>A Power BI dashboard project that analyzes mental health indicators among students across diverse educational programs in India.
-    This project uses synthetic data generated using Python to explore key factors such as academic stress, social media usage, sleep patterns, career anxiety, and support systems.</p>
-  
-  <ul>
-    <li><a href="Mental_Health_Analysis-Education.pbix" download>Download Power BI Dashboard (.pbix)</a></li>
-    <li><a href="Education_Dataset.csv" download>Download Cleaned Dataset (.csv)</a></li>
-    <li><a href="Mental_Health_Analysis-Education.pdf" download>Download PDF Export of Dashboard</a></li>
-  </ul>
+  <div class="container">
+    <h1>Mental Health Analysis – Education</h1>
+    <p><strong>Project Type:</strong> Power BI Dashboard <strong>|</strong> Data Analytics <strong>|</strong> Mental Health + Education</p>
 
-  <div class="preview">
-    <h3>📊 Dashboard Preview</h3>
-    <img src="Education_Dashboard.png" alt="Mental Health Analysis Education Dashboard Screenshot" width="1100">
+    <h2>🔍 Project Summary</h2>
+    <p>This Power BI dashboard analyzes mental health indicators among students across various educational institutions in India.
+      It includes academic stress, social media usage, sleep hours, anxiety about the future, and access to support systems.
+      The insights are derived from synthetic data generated using Python and transformed using Excel + Power BI.
+    </p>
+
+    <h2>📂 Download Project Files</h2>
+    <a href="Education_Dataset.csv" class="btn" download>📊 Download Cleaned Dataset</a>
+    <a href="Mental_Health_Analysis-Education.pbix" class="btn" download>📁 Download Power BI File (.pbix)</a>
+    <a href="Mental_Health_Analysis-Education.pdf" class="btn" download>📄 Download PDF Report</a>
+
+    <h2>📸 Dashboard Preview</h2>
+    <div class="slide"><img src="Education_Dashboard.png" alt="Education Dashboard"></div>
+
+    <h2>📈 Key Problems & Suggested Solutions</h2>
+    <div class="kpi"><strong>Career Anxiety:</strong> Introduce counseling workshops and career fairs targeted at high-anxiety groups.</div>
+    <div class="kpi"><strong>Sleep Hygiene:</strong> Launch digital detox campaigns and time management training in hostels/colleges.</div>
+    <div class="kpi"><strong>Low Counseling Access:</strong> Embed mental health awareness in orientation and curricula.</div>
+    <div class="kpi"><strong>Exam Pressure:</strong> Balance exam policies with open-book/continuous assessment methods.</div>
+    <div class="kpi"><strong>Campus Disengagement:</strong> Reward and recognize club participation. Diversify club offerings.</div>
+    <div class="kpi"><strong>Attendance Issues:</strong> Gamify attendance or offer flexible modules for low-engagement groups.</div>
+    <div class="kpi"><strong>Living Stressors:</strong> Customize support for hostel/day scholars with flexible counseling modes.</div>
+
+    <h2>🧠 Skills Demonstrated</h2>
+    <ul>
+      <li>Python (Random, Pandas) for synthetic dataset generation</li>
+      <li>Excel for data cleaning & formatting</li>
+      <li>Power BI: Visual Analytics, KPIs, Measures</li>
+      <li>Educational domain-specific dashboard storytelling</li>
+    </ul>
+
+    <h2>🚀 Future Enhancements</h2>
+    <ul>
+      <li>Add multi-page dashboards for demographic slicing</li>
+      <li>Integrate real university survey data if available</li>
+      <li>Gamify student dashboards with interactive bookmarks</li>
+    </ul>
+
+    <h2>📁 Source Code</h2>
+    <a href="https://github.com/harshad912004/Mental_Health_Analysis-Education" class="btn" target="_blank">View GitHub Repository</a>
+
+    <h2>📞 Let's Connect</h2>
+    <p>For internships, collaborations, or feedback — reach out!</p>
+    <a href="https://www.linkedin.com/in/harshad-dhongade" class="btn" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="height: 18px; vertical-align: middle; margin-right: 8px;">
+      Connect on LinkedIn
+    </a>
+    <a href="https://github.com/harshad912004" class="btn" target="_blank">Connect on GitHub Profile</a>
   </div>
 
-  <div class="insights">
-    <h1>Common Problems in the Education System with Solutions:</h1>
-    <h3>1. Career Anxiety:</h3>
-    <ul>
-        <li><b>Problem:</b> Many students face uncertainty about career paths, leading to high stress and anxiety.</li>
-        <li><b>Solution:</b> Promote access to Counseling Access. Career workshops targeted at courses/years with highest average anxiety levels.</li>
-    </ul>
-    <h3>2. Poor Sleep Hygiene:</h3>
-    <ul>
-        <li><b>Problem:</b> Excessive Social Media Usage hours → Reduced Sleep Hours, impacting mental health and academic focus.</li>
-        <li><b>Solution:</b> Implement digital detox campaigns in hostels and colleges. Promote time management training.</li>
-    </ul>
-    <h3>3. Low Counseling Access:</h3>
-    <ul>
-        <li><b>Problem:</b> Low awareness or usage of mental health counseling.</li>
-        <li><b>Solution:</b> Mandatory orientation about counseling services. Embed mental health programs into curriculam.</li>
-    </ul>
-    <h3>4. Overloaded Exam Schedules:</h3>
-    <ul>
-        <li><b>Problem:</b> High Exam Frequency → Higher Career Anxiety Level.</li>
-        <li><b>Solution:</b> Review academic policies to balance exams vs continuous assessment. Include open-book or applied learning methods.</li>
-    </ul>
+  <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">🔝</button>
 
-    <h3>5. Disengagement in Campus Life:</h3>
-    <ul>
-        <li><b>Problem:</b> Students without Club_Participation may show lower CGPA or higher loneliness.</li>
-        <li><b>Solution:</b> Actively encourage club participation via incentives or credits. Create more inclusive clubs (not just sports/cultural).</li>
-    </ul>
-    <h3>6. Attendance Issues:</h3>
-    <ul>
-        <li><b>Problem:</b> Low Attendance_% in certain groups indicates disengagement.</li>
-        <li><b>Solution:</b> Early intervention programs for students with low attendance. Gamify attendance or provide flexible learning modules.</li>
-    </ul>
-    <h3>7. Living Condition Stressors:</h3>
-    <ul>
-        <li><b>Problem:</b> Hostel students or day scholars may experience different stress triggers.</li>
-        <li><b>Solution:</b> Design living condition-specific support (hostel mentorship, day scholar groups). Offer flexible counseling slots (online/offline).</li>
-    </ul>
-  </div>
+  <script>
+    window.onscroll = function() {
+      const btn = document.getElementById("backToTopBtn");
+      if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+        btn.style.display = "block";
+      } else {
+        btn.style.display = "none";
+      }
+    };
 
-  <footer>
-    <p>Created by <strong>Harshad</strong> | MCA | Data Analytics Enthusiast</p>
-    <p><a href="https://www.linkedin.com/in/harshad-dhongade" target="_blank">Connect on LinkedIn</a></p>
-  </footer>
+    function scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  </script>
 </body>
 </html>
